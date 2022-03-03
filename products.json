@@ -1,25 +1,214 @@
 {
   "all": [
-    "{\"id\":1,\"name\":\"GANO SUPRENO\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/GSP-new.jpg\",\"salePrice\":106.0,\"purchasePrice\":88.0,\"pv\":32,\"cv\":32,\"type\":0}",
-    "{\"id\":2,\"name\":\"GANOCAFE CLASSIC\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/CC-turkey-new1.jpg\",\"salePrice\":108.0,\"purchasePrice\":90.0,\"pv\":33,\"cv\":33,\"type\":1}",
-    "{\"id\":3,\"name\":\"GANOCAFE 3 IN 1\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/C-turkey-new.jpg\",\"salePrice\":112.0,\"purchasePrice\":93.0,\"pv\":34,\"cv\":34,\"type\":1}",
-    "{\"id\":4,\"name\":\"GANOCAFE MOCHA\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/cm-turkey.jpg\",\"salePrice\":113.0,\"purchasePrice\":93.5,\"pv\":35,\"cv\":35,\"type\":1}",
-    "{\"id\":5,\"name\":\"GANOCAFE HAZELNUT COFFEE\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/hznC.jpg\",\"salePrice\":119.0,\"purchasePrice\":99.0,\"pv\":54,\"cv\":36,\"type\":1}",
-    "{\"id\":6,\"name\":\"GANO SCHOKOLADE 3 in 1\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/schokolade.jpg\",\"salePrice\":126.0,\"purchasePrice\":104.5,\"pv\":38,\"cv\":38,\"type\":1}",
-    "{\"id\":7,\"name\":\"GANO C'REAL SPIRULINA\",\"image\":\"https://i.pinimg.com/originals/1c/7e/ce/1c7ecece95c8dd99a91b76a11403b3b1.jpg\",\"salePrice\":50.0,\"purchasePrice\":42.0,\"pv\":16,\"cv\":16,\"type\":0}",
-    "{\"id\":8,\"name\":\"OLEAF GANO ROOBIOS DRINK\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/rooibos.jpg\",\"salePrice\":104.0,\"purchasePrice\":86.5,\"pv\":32,\"cv\":32,\"type\":1}",
-    "{\"id\":9,\"name\":\"OLEAF GANO REEBUSTEE\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/reebusteelow.jpg\",\"salePrice\":189.0,\"purchasePrice\":157.0,\"pv\":58,\"cv\":29,\"type\":1}",
-    "{\"id\":10,\"name\":\"GANO TRANSPARENT SOAP\",\"image\":\"https://www.ganoexcel.com.tr/images/urunler/94e608050357dd2478874c02e304fe00.jpg\",\"salePrice\":92.0,\"purchasePrice\":76.0,\"pv\":39,\"cv\":19,\"type\":2}",
-    "{\"id\":11,\"name\":\"GANO SOAP\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/sTurkey.jpg\",\"salePrice\":77.0,\"purchasePrice\":64.0,\"pv\":22,\"cv\":17,\"type\":2}",
-    "{\"id\":12,\"name\":\"GANO FRESH\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/gf-1.jpg\",\"salePrice\":77.0,\"purchasePrice\":63.5,\"pv\":23,\"cv\":18,\"type\":2}",
-    "{\"id\":13,\"name\":\"GANOCORDY 60\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/ganocordya.jpg\",\"salePrice\":224.0,\"purchasePrice\":186.0,\"pv\":68,\"cv\":68,\"type\":0}",
-    "{\"id\":14,\"name\":\"GANODERMA 90\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/g-turkey-new.jpg\",\"salePrice\":190.0,\"purchasePrice\":158.0,\"pv\":58,\"cv\":58,\"type\":0}",
-    "{\"id\":15,\"name\":\"EXCELLIUM 90\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/e9-turkey-new.jpg\",\"salePrice\":190.0,\"purchasePrice\":158.0,\"pv\":58,\"cv\":58,\"type\":0}",
-    "{\"id\":16,\"name\":\"EXCELLIUM GOLD 60\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/EGold6.jpg\",\"salePrice\":504.0,\"purchasePrice\":420.0,\"pv\":155,\"cv\":155,\"type\":0}",
-    "{\"id\":17,\"name\":\"REISHI GOLD 60\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/RGold6.jpg\",\"salePrice\":504.0,\"purchasePrice\":420.0,\"pv\":155,\"cv\":155,\"type\":0}",
-    "{\"id\":18,\"name\":\"G'BEAUTE REISHI MISTY\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/RM.jpg\",\"salePrice\":400.0,\"purchasePrice\":330.0,\"pv\":98,\"cv\":98,\"type\":1}",
-    "{\"id\":19,\"name\":\"LUVOCO CAPSULES AMOROSO\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/Amoroso.jpg\",\"salePrice\":133.0,\"purchasePrice\":110.5,\"pv\":41,\"cv\":31,\"type\":1}",
-    "{\"id\":20,\"name\":\"LUVOCO CAPSULES CLASSICO\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/Classico.jpg\",\"salePrice\":133.0,\"purchasePrice\":110.5,\"pv\":41,\"cv\":31,\"type\":1}",
-    "{\"id\":21,\"name\":\"LUVOCO CAPSULES RAFFINATO\",\"image\":\"https://turkey.ganoexcel.com/ge/cms/images/Raffinato.jpg\",\"salePrice\":133.0,\"purchasePrice\":110.5,\"pv\":41,\"cv\":31,\"type\":1}"
+    {
+      "id": 1,
+      "name": "GANO SUPRENO",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/GSP-new.jpg",
+      "salePrice": 106,
+      "purchasePrice": 88,
+      "pv": 32,
+      "cv": 32,
+      "type": 0
+    },
+    {
+      "id": 2,
+      "name": "GANOCAFE CLASSIC",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/CC-turkey-new1.jpg",
+      "salePrice": 108,
+      "purchasePrice": 90,
+      "pv": 33,
+      "cv": 33,
+      "type": 1
+    },
+    {
+      "id": 3,
+      "name": "GANOCAFE 3 IN 1",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/C-turkey-new.jpg",
+      "salePrice": 112,
+      "purchasePrice": 93,
+      "pv": 34,
+      "cv": 34,
+      "type": 1
+    },
+    {
+      "id": 4,
+      "name": "GANOCAFE MOCHA",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/cm-turkey.jpg",
+      "salePrice": 113,
+      "purchasePrice": 93.5,
+      "pv": 35,
+      "cv": 35,
+      "type": 1
+    },
+    {
+      "id": 5,
+      "name": "GANOCAFE HAZELNUT COFFEE",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/hznC.jpg",
+      "salePrice": 119,
+      "purchasePrice": 99,
+      "pv": 54,
+      "cv": 36,
+      "type": 1
+    },
+    {
+      "id": 6,
+      "name": "GANO SCHOKOLADE 3 in 1",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/schokolade.jpg",
+      "salePrice": 126,
+      "purchasePrice": 104.5,
+      "pv": 38,
+      "cv": 38,
+      "type": 1
+    },
+    {
+      "id": 7,
+      "name": "GANO C'REAL SPIRULINA",
+      "image": "https://i.pinimg.com/originals/1c/7e/ce/1c7ecece95c8dd99a91b76a11403b3b1.jpg",
+      "salePrice": 50,
+      "purchasePrice": 42,
+      "pv": 16,
+      "cv": 16,
+      "type": 0
+    },
+    {
+      "id": 8,
+      "name": "OLEAF GANO ROOBIOS DRINK",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/rooibos.jpg",
+      "salePrice": 104,
+      "purchasePrice": 86.5,
+      "pv": 32,
+      "cv": 32,
+      "type": 1
+    },
+    {
+      "id": 9,
+      "name": "OLEAF GANO REEBUSTEE",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/reebusteelow.jpg",
+      "salePrice": 189,
+      "purchasePrice": 157,
+      "pv": 58,
+      "cv": 29,
+      "type": 1
+    },
+    {
+      "id": 10,
+      "name": "GANO TRANSPARENT SOAP",
+      "image": "https://www.ganoexcel.com.tr/images/urunler/94e608050357dd2478874c02e304fe00.jpg",
+      "salePrice": 92,
+      "purchasePrice": 76,
+      "pv": 39,
+      "cv": 19,
+      "type": 2
+    },
+    {
+      "id": 11,
+      "name": "GANO SOAP",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/sTurkey.jpg",
+      "salePrice": 77,
+      "purchasePrice": 64,
+      "pv": 22,
+      "cv": 17,
+      "type": 2
+    },
+    {
+      "id": 12,
+      "name": "GANO FRESH",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/gf-1.jpg",
+      "salePrice": 77,
+      "purchasePrice": 63.5,
+      "pv": 23,
+      "cv": 18,
+      "type": 2
+    },
+    {
+      "id": 13,
+      "name": "GANOCORDY 60",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/ganocordya.jpg",
+      "salePrice": 224,
+      "purchasePrice": 186,
+      "pv": 68,
+      "cv": 68,
+      "type": 0
+    },
+    {
+      "id": 14,
+      "name": "GANODERMA 90",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/g-turkey-new.jpg",
+      "salePrice": 190,
+      "purchasePrice": 158,
+      "pv": 58,
+      "cv": 58,
+      "type": 0
+    },
+    {
+      "id": 15,
+      "name": "EXCELLIUM 90",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/e9-turkey-new.jpg",
+      "salePrice": 190,
+      "purchasePrice": 158,
+      "pv": 58,
+      "cv": 58,
+      "type": 0
+    },
+    {
+      "id": 16,
+      "name": "EXCELLIUM GOLD 60",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/EGold6.jpg",
+      "salePrice": 504,
+      "purchasePrice": 420,
+      "pv": 155,
+      "cv": 155,
+      "type": 0
+    },
+    {
+      "id": 17,
+      "name": "REISHI GOLD 60",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/RGold6.jpg",
+      "salePrice": 504,
+      "purchasePrice": 420,
+      "pv": 155,
+      "cv": 155,
+      "type": 0
+    },
+    {
+      "id": 18,
+      "name": "G'BEAUTE REISHI MISTY",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/RM.jpg",
+      "salePrice": 400,
+      "purchasePrice": 330,
+      "pv": 98,
+      "cv": 98,
+      "type": 1
+    },
+    {
+      "id": 19,
+      "name": "LUVOCO CAPSULES AMOROSO",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/Amoroso.jpg",
+      "salePrice": 133,
+      "purchasePrice": 110.5,
+      "pv": 41,
+      "cv": 31,
+      "type": 1
+    },
+    {
+      "id": 20,
+      "name": "LUVOCO CAPSULES CLASSICO",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/Classico.jpg",
+      "salePrice": 133,
+      "purchasePrice": 110.5,
+      "pv": 41,
+      "cv": 31,
+      "type": 1
+    },
+    {
+      "id": 21,
+      "name": "LUVOCO CAPSULES RAFFINATO",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/Raffinato.jpg",
+      "salePrice": 133,
+      "purchasePrice": 110.5,
+      "pv": 41,
+      "cv": 31,
+      "type": 1
+    }
   ]
 }
