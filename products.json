@@ -2,7 +2,7 @@
   "all": [
     {
       "id": 1,
-      "name": "GANO SUPRENO ( HAHAHAHAHA )",
+      "name": "GANO SUPRENO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GSP-new.jpg",
       "salePrice": 106,
       "purchasePrice": 88,
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "name": "GANOCAFE CLASSIC ( HAHAHAHAHA )",
+      "name": "GANOCAFE CLASSIC",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/CC-turkey-new1.jpg",
       "salePrice": 108,
       "purchasePrice": 90,
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "3 IN 1",
+      "name": "GANOCAFE 3 IN 1",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/C-turkey-new.jpg",
       "salePrice": 112,
       "purchasePrice": 93,
