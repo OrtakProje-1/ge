@@ -8,7 +8,7 @@
       "purchasePrice": 88,
       "pv": 32,
       "cv": 32,
-      "type": 0
+      "type": 1
     },
     {
       "id": 2,
@@ -68,7 +68,7 @@
       "purchasePrice": 42,
       "pv": 16,
       "cv": 16,
-      "type": 0
+      "type": 1
     },
     {
       "id": 8,
