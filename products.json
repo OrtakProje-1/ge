@@ -60,16 +60,7 @@
       "cv": 38,
       "type": 1
     },
-    {
-      "id": 7,
-      "name": "GANO C'REAL SPIRULINA",
-      "image": "https://i.pinimg.com/originals/1c/7e/ce/1c7ecece95c8dd99a91b76a11403b3b1.jpg",
-      "salePrice": 50,
-      "purchasePrice": 42,
-      "pv": 16,
-      "cv": 16,
-      "type": 1
-    },
+    
     {
       "id": 8,
       "name": "OLEAF GANO ROOBIOS DRINK",
@@ -170,16 +161,7 @@
       "cv": 155,
       "type": 0
     },
-    {
-      "id": 18,
-      "name": "G'BEAUTE REISHI MISTY",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/RM.jpg",
-      "salePrice": 400,
-      "purchasePrice": 330,
-      "pv": 98,
-      "cv": 98,
-      "type": 2
-    },
+    
     {
       "id": 19,
       "name": "LUVOCO CAPSULES AMOROSO",
@@ -210,5 +192,27 @@
       "cv": 31,
       "type": 1
     }
+  ],
+  "unstocked":[
+  {
+      "id": 7,
+      "name": "GANO C'REAL SPIRULINA",
+      "image": "https://i.pinimg.com/originals/1c/7e/ce/1c7ecece95c8dd99a91b76a11403b3b1.jpg",
+      "salePrice": 50,
+      "purchasePrice": 42,
+      "pv": 16,
+      "cv": 16,
+      "type": 1
+    },
+    {
+      "id": 18,
+      "name": "G'BEAUTE REISHI MISTY",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/RM.jpg",
+      "salePrice": 400,
+      "purchasePrice": 330,
+      "pv": 98,
+      "cv": 98,
+      "type": 2
+    },
   ]
 }
