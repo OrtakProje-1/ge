@@ -8,7 +8,8 @@
       "purchasePrice": 82.30,
       "pv": 32,
       "cv": 32,
-      "type": 1
+      "type": 1,
+      "isStocked":true,
     },
     {
       "id": 2,
@@ -18,6 +19,7 @@
       "purchasePrice": 84.20,
       "pv": 33,
       "cv": 33,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -28,6 +30,7 @@
       "purchasePrice": 93,
       "pv": 34,
       "cv": 34,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -38,6 +41,7 @@
       "purchasePrice": 87.50,
       "pv": 35,
       "cv": 35,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -48,6 +52,7 @@
       "purchasePrice": 92.60,
       "pv": 54,
       "cv": 36,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -58,6 +63,18 @@
       "purchasePrice": 97.80,
       "pv": 38,
       "cv": 38,
+      "isStocked":true,
+      "type": 1
+    },
+    {
+      "id": 7,
+      "name": "GANO C'REAL SPIRULINA",
+      "image": "https://i.pinimg.com/originals/1c/7e/ce/1c7ecece95c8dd99a91b76a11403b3b1.jpg",
+      "salePrice": 50,
+      "purchasePrice": 42,
+      "pv": 16,
+      "cv": 16,
+    "isStocked":false,
       "type": 1
     },
     
@@ -69,6 +86,7 @@
       "purchasePrice": 80.90,
       "pv": 32,
       "cv": 32,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -79,6 +97,7 @@
       "purchasePrice": 146.90,
       "pv": 58,
       "cv": 29,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -89,6 +108,7 @@
       "purchasePrice": 76,
       "pv": 39,
       "cv": 19,
+      "isStocked":true,
       "type": 2
     },
     {
@@ -99,6 +119,7 @@
       "purchasePrice": 64,
       "pv": 22,
       "cv": 17,
+      "isStocked":true,
       "type": 2
     },
     {
@@ -109,6 +130,7 @@
       "purchasePrice": 63.50,
       "pv": 23,
       "cv": 18,
+      "isStocked":true,
       "type": 2
     },
     {
@@ -119,6 +141,7 @@
       "purchasePrice": 174,
       "pv": 68,
       "cv": 68,
+      "isStocked":true,
       "type": 0
     },
     {
@@ -129,6 +152,7 @@
       "purchasePrice": 147.80,
       "pv": 58,
       "cv": 58,
+      "isStocked":true,
       "type": 0
     },
     {
@@ -139,6 +163,7 @@
       "purchasePrice": 147.80,
       "pv": 58,
       "cv": 58,
+      "isStocked":true,
       "type": 0
     },
     {
@@ -149,6 +174,7 @@
       "purchasePrice": 392.80,
       "pv": 155,
       "cv": 155,
+      "isStocked":true,
       "type": 0
     },
     {
@@ -159,7 +185,19 @@
       "purchasePrice": 392.80,
       "pv": 155,
       "cv": 155,
+      "isStocked":true,
       "type": 0
+    },
+    {
+      "id": 18,
+      "name": "G'BEAUTE REISHI MISTY",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/RM.jpg",
+      "salePrice": 400,
+      "purchasePrice": 330,
+      "pv": 98,
+      "cv": 98,
+      "isStocked":false,
+      "type": 2
     },
     
     {
@@ -170,6 +208,7 @@
       "purchasePrice": 103.40,
       "pv": 41,
       "cv": 31,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -180,6 +219,7 @@
       "purchasePrice": 103.40,
       "pv": 41,
       "cv": 31,
+      "isStocked":true,
       "type": 1
     },
     {
@@ -190,29 +230,8 @@
       "purchasePrice": 103.40,
       "pv": 41,
       "cv": 31,
+      "isStocked":true,
       "type": 1
-    }
-  ],
-  "unstocked":[
-  {
-      "id": 7,
-      "name": "GANO C'REAL SPIRULINA",
-      "image": "https://i.pinimg.com/originals/1c/7e/ce/1c7ecece95c8dd99a91b76a11403b3b1.jpg",
-      "salePrice": 50,
-      "purchasePrice": 42,
-      "pv": 16,
-      "cv": 16,
-      "type": 1
-    },
-    {
-      "id": 18,
-      "name": "G'BEAUTE REISHI MISTY",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/RM.jpg",
-      "salePrice": 400,
-      "purchasePrice": 330,
-      "pv": 98,
-      "cv": 98,
-      "type": 2
     }
   ]
 }
