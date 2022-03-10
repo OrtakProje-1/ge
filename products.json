@@ -9,7 +9,7 @@
       "pv": 32,
       "cv": 32,
       "type": 1,
-      "isStocked":true,
+      "isStocked":true
     },
     {
       "id": 2,
