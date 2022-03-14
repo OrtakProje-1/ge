@@ -41,7 +41,7 @@
       "purchasePrice": 87.50,
       "pv": 35,
       "cv": 35,
-      "isStocked":true,
+      "isStocked":false,
       "type": 1
     },
     {
@@ -52,7 +52,7 @@
       "purchasePrice": 92.60,
       "pv": 54,
       "cv": 36,
-      "isStocked":true,
+      "isStocked":false,
       "type": 1
     },
     {
@@ -108,7 +108,7 @@
       "purchasePrice": 76,
       "pv": 39,
       "cv": 19,
-      "isStocked":true,
+      "isStocked":false,
       "type": 2
     },
     {
