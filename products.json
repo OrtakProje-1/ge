@@ -41,7 +41,7 @@
       "purchasePrice": 87.50,
       "pv": 35,
       "cv": 35,
-      "isStocked":false,
+      "isStocked":true,
       "type": 1
     },
     {
