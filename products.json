@@ -234,5 +234,82 @@
       "type": 1
     }
   ],
-  "cargoPrice":36.44
+  "cargoPrice":36.44,
+  "packages":[
+    
+    {
+      "name":"PROMO-PACK2-E11 Promosyon Ürün Paketi 2",
+      "pv":350,
+      "cv":254,
+      "price":790.65,
+      "products":[
+        {
+          "name":"GANOCAFE 3 IN 1",
+          "count":2
+        },
+        {
+          "name":"GANOCAFE CLASSIC",
+          "count":1
+        },
+        {
+          "name":"OLEAF GANO REEBUSTEE",
+          "count":1
+        },
+        {
+          "name":"GANO FRESH",
+          "count":1
+        },
+        {
+          "name":"GANO SOAP",
+          "count":1
+        }
+      ],
+      "cashIncentive":60
+    },
+    {
+      "name":"PROMO-PACK3-E11 Promosyon Ürün Paketi 3",
+      "pv":550,
+      "cv":501,
+      "price":1387.87,
+      "products":[
+        {
+          "name":"GANODERMA 90",
+          "count":1
+        },
+        {
+          "name":"EXCELLIUM 90",
+          "count":1
+        },
+        {
+          "name":"GANOCAFE 3 IN 1",
+          "count":1
+        },
+        {
+          "name":"GANOCAFE CLASSIC",
+          "count":1
+        },
+        {
+          "name":"GANOCAFE MOCHA",
+          "count":1
+        },
+        {
+          "name":"GANO SUPRENO",
+          "count":1
+        },
+        {
+          "name":"OLEAF GANO REEBUSTEE",
+          "count":1
+        },
+        {
+          "name":"OLEAF GANO ROOBIOS DRINK",
+          "count":1
+        },
+        {
+          "name":"GANO FRESH",
+          "count":1
+        }
+      ],
+      "cashIncentive":100
+    }
+  ]
 }
