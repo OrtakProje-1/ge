@@ -264,7 +264,7 @@
           "count":1
         }
       ],
-      "cashIncentive":60
+      "cashIncentive":60.00
     },
     {
       "name":"PROMO-PACK3-E11 Promosyon Ürün Paketi 3",
@@ -309,7 +309,7 @@
           "count":1
         }
       ],
-      "cashIncentive":100
+      "cashIncentive":100.00
     }
   ]
 }
