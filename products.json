@@ -239,8 +239,8 @@
     
     {
       "name":"PROMO-PACK2-E11 Promosyon Ürün Paketi 2",
-      "pv":350,
-      "cv":254,
+      "pv":350.00,
+      "cv":254.00,
       "price":790.65,
       "products":[
         {
@@ -268,8 +268,8 @@
     },
     {
       "name":"PROMO-PACK3-E11 Promosyon Ürün Paketi 3",
-      "pv":550,
-      "cv":501,
+      "pv":550.00,
+      "cv":501.00,
       "price":1387.87,
       "products":[
         {
