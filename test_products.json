@@ -242,6 +242,7 @@
         "pv":123.00,
         "cv":324.00,
         "price":1000.00,
+        "isItNormalPackage":true,
         "image":"https://turkey.ganoexcel.com/ge/cms/images/PACK2E12.jpg",
         "products":[
           {
@@ -277,6 +278,7 @@
         "pv":172.00,
         "cv":541.00,
         "price":1400.00,
+        "isItNormalPackage":true,
         "image":"https://turkey.ganoexcel.com/ge/cms/images/PACK3E12.jpg",
         "products":[
           {
@@ -322,6 +324,7 @@
         "pv":500.00,
         "cv":1000.00,
         "price":6250.00,
+        "isItNormalPackage":false,
         "image":"https://turkey.ganoexcel.com/ge/cms/images/LUVPACKB5.jpg",
         "products":[
           {
@@ -353,25 +356,22 @@
         "pv":1000.00,
         "cv":480.00,
         "price":26600.00,
+        "isItNormalPackage":false,
         "image":"https://turkey.ganoexcel.com/ge/cms/images/luvocoNew.png",
         "products":[
           {
-            "image":"https://www.aysegulcakmak.com.tr/wp-content/uploads/2021/03/Kafe-Tipi.jpg",
             "name":"Profesyonel Kahve Makinesi",
             "count":1
           },
           {
-            "image":"https://www.aysegulcakmak.com.tr/wp-content/uploads/2021/03/rafinatokapsul.png",
             "name":"Profesyonel Luvoco Raffinato Kapsül",
             "count":500
           },
            {
-             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0dnvBnzbrXJFq6gi8_Rzny2iuuc59TERKw&usqp=CAU",
              "name":"Beyaz Şeker",
              "count":250
           },
            {
-             "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bt-4B--XCOFPjQXcvLR_ZjW5bxfS1z1BgQ&usqp=CAU",
              "name":"Kahverengi Şeker",
              "count":200
           },
@@ -380,12 +380,10 @@
             "count":75
           },
           {
-            "image":"https://cdn.dsmcdn.com/ty599/product/media/images/20221114/13/214725626/22312441/1/1_org_zoom.jpg",
             "name":"Monin Şurup",
             "count":7
          },
           {
-            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk9wQT4KkZX55pYljdfueDQdsmGyO7FODrow&usqp=CAU",
             "name":"Monin Pompa",
             "count":7
          }
