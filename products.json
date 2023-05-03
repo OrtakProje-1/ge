@@ -245,22 +245,27 @@
       "image":"https://turkey.ganoexcel.com/ge/cms/images/PROMO-PACK2-E11-1.jpg",
       "products":[
         {
+          "id":3,
           "name":"GANOCAFE 3 IN 1",
           "count":2
         },
         {
+          "id":2,
           "name":"GANOCAFE CLASSIC",
           "count":1
         },
         {
+          "id":9,
           "name":"OLEAF GANO REEBUSTEE",
           "count":1
         },
         {
+          "id":12,
           "name":"GANO FRESH",
           "count":1
         },
         {
+          "id":11,
           "name":"GANO SOAP",
           "count":1
         }
@@ -275,38 +280,47 @@
       "image":"https://turkey.ganoexcel.com/ge/cms/images/PROMO-PACK3-E11-1.jpg",
       "products":[
         {
+          "id":14,
           "name":"GANODERMA 90",
           "count":1
         },
         {
+          "id":15,
           "name":"EXCELLIUM 90",
           "count":1
         },
         {
+          "id":3,
           "name":"GANOCAFE 3 IN 1",
           "count":1
         },
         {
+          "id":2,
           "name":"GANOCAFE CLASSIC",
           "count":1
         },
         {
+          "id":4,
           "name":"GANOCAFE MOCHA",
           "count":1
         },
         {
+          "id":1,
           "name":"GANO SUPRENO",
           "count":1
         },
         {
+          "id":9,
           "name":"OLEAF GANO REEBUSTEE",
           "count":1
         },
         {
+          "id":8,
           "name":"OLEAF GANO ROOBIOS DRINK",
           "count":1
         },
         {
+          "id":12,
           "name":"GANO FRESH",
           "count":1
         }
