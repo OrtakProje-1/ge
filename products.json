@@ -105,7 +105,7 @@
         "name": "GANO TRANSPARENT SOAP",
         "image": "https://www.ganoexcel.com.tr/images/urunler/94e608050357dd2478874c02e304fe00.jpg",
         "salePrice": 163,
-        "purchasePrice": 135.80,
+        "purchasePrice": 150.90,
         "pv": 17,
         "cv": 37,
         "isStocked":true,
@@ -116,7 +116,7 @@
         "name": "GANO SOAP",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/sTurkey.jpg",
         "salePrice": 143,
-        "purchasePrice": 119.50,
+        "purchasePrice": 132.80,
         "pv": 15,
         "cv": 33,
         "isStocked":true,
@@ -127,7 +127,7 @@
         "name": "GANO FRESH",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/gf-1.jpg",
         "salePrice": 152,
-        "purchasePrice": 126.40,
+        "purchasePrice": 128.80,
         "pv": 16,
         "cv": 35,
         "isStocked":true,
@@ -234,7 +234,7 @@
         "type": 1
       }
     ],
-    "cargoPrice":47.92,
+    "cargoPrice":64.25,
     "packages":[
       
       {
