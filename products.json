@@ -235,6 +235,7 @@
       }
     ],
     "cargoPrice":64.25,
+    "cargoLimit":800,
     "packages":[
       
       {
