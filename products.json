@@ -4,10 +4,10 @@
         "id": 1,
         "name": "GANO SUPRENO",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/GSP-new.jpg",
-        "salePrice": 308.28,
+        "salePrice": 308.00,
         "purchasePrice": 256.90,
-        "pv": 24,
-        "cv": 78,
+        "pv": 31,
+        "cv": 101,
         "type": 1,
         "isStocked":true
       },
@@ -15,10 +15,10 @@
         "id": 2,
         "name": "GANOCAFE CLASSIC",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/CC-turkey-new1.jpg",
-        "salePrice": 297.72,
-        "purchasePrice": 248.10,
-        "pv": 23,
-        "cv": 75,
+        "salePrice": 298.00,
+        "purchasePrice": 248.20,
+        "pv": 30,
+        "cv": 98,
         "isStocked":true,
         "type": 1
       },
@@ -26,10 +26,10 @@
         "id": 3,
         "name": "GANOCAFE 3 IN 1",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/C-turkey-new.jpg",
-        "salePrice": 307.32,
+        "salePrice": 307.00,
         "purchasePrice": 256.10,
-        "pv": 24,
-        "cv": 78,
+        "pv": 31,
+        "cv": 101,
         "isStocked":true,
         "type": 1
       },
@@ -37,10 +37,10 @@
         "id": 4,
         "name": "GANOCAFE MOCHA",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/cm-turkey.jpg",
-        "salePrice": 310.44,
+        "salePrice": 310.00,
         "purchasePrice": 258.70,
-        "pv": 24,
-        "cv": 78,
+        "pv": 31,
+        "cv": 101,
         "isStocked":true,
         "type": 1
       },
@@ -59,10 +59,10 @@
         "id": 6,
         "name": "GANO SCHOKOLADE 3 in 1",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/schokolade.jpg",
-        "salePrice": 338.88,
+        "salePrice": 338.00,
         "purchasePrice": 282.40,
-        "pv": 26,
-        "cv": 86,
+        "pv": 34,
+        "cv": 112,
         "isStocked":true,
         "type": 1
       },
@@ -82,10 +82,10 @@
         "id": 8,
         "name": "OLEAF GANO ROOBIOS DRINK",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/rooibos.jpg",
-        "salePrice": 310.80,
+        "salePrice": 310.00,
         "purchasePrice": 259,
-        "pv": 24,
-        "cv": 79,
+        "pv": 31,
+        "cv": 103,
         "isStocked":true,
         "type": 1
       },
@@ -93,10 +93,10 @@
         "id": 9,
         "name": "OLEAF GANO REEBUSTEE",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/reebusteelow.jpg",
-        "salePrice": 474.24,
+        "salePrice": 474.00,
         "purchasePrice": 395.20,
-        "pv": 37,
-        "cv": 60,
+        "pv": 48,
+        "cv": 78,
         "isStocked":true,
         "type": 1
       },
@@ -104,10 +104,10 @@
         "id": 10,
         "name": "GANO TRANSPARENT SOAP",
         "image": "https://www.ganoexcel.com.tr/images/urunler/94e608050357dd2478874c02e304fe00.jpg",
-        "salePrice": 235.44,
+        "salePrice": 235.00,
         "purchasePrice": 196.20,
-        "pv": 17,
-        "cv": 37,
+        "pv": 22,
+        "cv": 48,
         "isStocked":true,
         "type": 2
       },
@@ -115,10 +115,10 @@
         "id": 11,
         "name": "GANO SOAP",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/sTurkey.jpg",
-        "salePrice": 207.24,
+        "salePrice": 207.00,
         "purchasePrice": 172.70,
-        "pv": 15,
-        "cv": 33,
+        "pv": 20,
+        "cv": 43,
         "isStocked":true,
         "type": 2
       },
@@ -128,8 +128,8 @@
         "image": "https://turkey.ganoexcel.com/ge/cms/images/gf-1.jpg",
         "salePrice": 201,
         "purchasePrice": 167.50,
-        "pv": 16,
-        "cv": 35,
+        "pv": 21,
+        "cv": 46,
         "isStocked":true,
         "type": 2
       },
@@ -137,10 +137,10 @@
         "id": 13,
         "name": "GANOCORDY 60",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/ganocordya.jpg",
-        "salePrice": 447.96,
+        "salePrice": 448.00,
         "purchasePrice": 373.30,
-        "pv": 35,
-        "cv": 114,
+        "pv": 47,
+        "cv": 148,
         "isStocked":true,
         "type": 0
       },
@@ -148,10 +148,10 @@
         "id": 14,
         "name": "GANODERMA 90",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/g-turkey-new.jpg",
-        "salePrice": 380.88,
+        "salePrice": 380.00,
         "purchasePrice": 317.40,
-        "pv": 30,
-        "cv": 97,
+        "pv": 39,
+        "cv": 126,
         "isStocked":true,
         "type": 0
       },
@@ -159,10 +159,10 @@
         "id": 15,
         "name": "EXCELLIUM 90",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/e9-turkey-new.jpg",
-        "salePrice": 380.88,
+        "salePrice": 380.00,
         "purchasePrice": 317.40,
-        "pv": 30,
-        "cv": 97,
+        "pv": 39,
+        "cv": 126,
         "isStocked":true,
         "type": 0
       },
@@ -170,10 +170,10 @@
         "id": 16,
         "name": "EXCELLIUM GOLD 60",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/EGold6.jpg",
-        "salePrice": 806.40,
+        "salePrice": 806.00,
         "purchasePrice": 672,
-        "pv": 64,
-        "cv": 205,
+        "pv": 83,
+        "cv": 267,
         "isStocked":true,
         "type": 0
       },
@@ -181,11 +181,11 @@
         "id": 17,
         "name": "REISHI GOLD 60",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/RGold6.jpg",
-        "salePrice": 806.40,
+        "salePrice": 806.00,
         "purchasePrice": 672,
-        "pv": 64,
-        "cv": 205,
-        "isStocked":true,
+        "pv": 83,
+        "cv": 267,
+        "isStocked":false,
         "type": 0
       },
       {
@@ -204,10 +204,10 @@
         "id": 19,
         "name": "LUVOCO CAPSULES AMOROSO",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/Amoroso.jpg",
-        "salePrice": 246.36,
+        "salePrice": 246.00,
         "purchasePrice": 205.30,
-        "pv": 19,
-        "cv": 47,
+        "pv": 25,
+        "cv": 61,
         "isStocked":true,
         "type": 1
       },
@@ -215,10 +215,10 @@
         "id": 20,
         "name": "LUVOCO CAPSULES CLASSICO",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/Classico.jpg",
-        "salePrice": 246.36,
+        "salePrice": 246.00,
         "purchasePrice": 205.30,
-        "pv": 19,
-        "cv": 47,
+        "pv": 25,
+        "cv": 61,
         "isStocked":true,
         "type": 1
       },
@@ -226,25 +226,60 @@
         "id": 21,
         "name": "LUVOCO CAPSULES RAFFINATO",
         "image": "https://turkey.ganoexcel.com/ge/cms/images/Raffinato.jpg",
-        "salePrice": 246.36,
+        "salePrice": 246.00,
         "purchasePrice": 205.30,
-        "pv": 19,
-        "cv": 47,
+        "pv": 25,
+        "cv": 61,
         "isStocked":true,
         "type": 1
+      },
+      {
+        "id": 22,
+        "name": "GANOCAFE MOCHARICO",
+        "image": "https://turkey.ganoexcel.com/ge/cms/images/MRICO-Mocharico.png",
+        "salePrice": 440.00,
+        "purchasePrice": 366.70,
+        "pv": 45,
+        "cv": 145,
+        "isStocked":true,
+        "type": 1,
+        "isNewProduct":true
+      },
+      {
+        "id": 23,
+        "name": "GANOCAFE LATTERICO",
+        "image": "https://turkey.ganoexcel.com/ge/cms/images/LRICO-Latterico.png",
+        "salePrice": 455.00,
+        "purchasePrice": 380,
+        "pv": 47,
+        "cv": 150,
+        "isStocked":true,
+        "type": 1,
+        "isNewProduct":true
+      },
+      {
+        "id": 24,
+        "name": "GANOCAFE SHOKORICO",
+        "image": "https://turkey.ganoexcel.com/ge/cms/images/CRICO-Shokorico.png",
+        "salePrice": 490.00,
+        "purchasePrice": 408.50,
+        "pv": 51,
+        "cv": 162,
+        "isStocked":true,
+        "type": 1,
+        "isNewProduct":true
       }
     ],
     "cargoPrice":64.25,
     "cargoLimit":800,
     "packages":[
-      
       {
-        "name":"PROMO-PACK2-E12 Promosyon Ürün Paketi 2",
-        "pv":123.00,
-        "cv":324.00,
-        "price":1000.00,
+        "name":"PROMO-PACK2-E14 Promotional Product Package 2",
+        "pv":182.00,
+        "cv":469.00,
+        "price":1500.00,
         "isItNormalPackage":true,
-        "image":"https://turkey.ganoexcel.com/ge/cms/images/PACK2E12.jpg",
+        "image":"https://turkey.ganoexcel.com/ge/cms/images/PromoPack2E14.png",
         "products":[
           {
             "id":3,
@@ -257,30 +292,35 @@
             "count":1
           },
           {
-            "id":9,
-            "name":"OLEAF GANO REEBUSTEE",
+            "id":1,
+            "name":"GANO SUPRENO",
             "count":1
           },
           {
-            "id":1,
-            "name":"GANO SUPRENO",
+            "id":9,
+            "name":"OLEAF GANO REEBUSTEE",
             "count":1
           },
           {
             "id":11,
             "name":"GANO SOAP",
             "count":1
+          },
+          {
+            "id":10,
+            "name":"GANO TRANSPARENT SOAP",
+            "count":1
           }
         ],
         "cashIncentive":60.00
       },
       {
-        "name":"PROMO-PACK3-E12 Promosyon Ürün Paketi 3",
-        "pv":172.00,
-        "cv":541.00,
-        "price":1400.00,
+        "name":"PROMO-PACK3-E14 Promotional Product Package 3",
+        "pv":247.00,
+        "cv":760.00,
+        "price":2000.00,
         "isItNormalPackage":true,
-        "image":"https://turkey.ganoexcel.com/ge/cms/images/PACK3E12.jpg",
+        "image":"https://turkey.ganoexcel.com/ge/cms/images/PromoPack3E14.png",
         "products":[
           {
             "id":14,
@@ -303,94 +343,27 @@
             "count":1
           },
           {
-            "id":1,
-            "name":"GANO SUPRENO",
+            "id":6,
+            "name":"GANO SCHOKOLADE 3 in 1",
             "count":1
           },
           {
-            "id":9,
-            "name":"OLEAF GANO REEBUSTEE",
+            "id":8,
+            "name":"OLEAF GANO ROOBIOS DRINK",
             "count":1
           },
           {
             "id":10,
             "name":"GANO TRANSPARENT SOAP",
             "count":1
+          },
+          {
+            "id":12,
+            "name":"GANO FRESH",
+            "count":1
           }
         ],
         "cashIncentive":100.00
-      },
-      {
-        "name":"LUV-PACKAGE-B5 Luvoco Promosyon Paketi B5",
-        "pv":500.00,
-        "cv":1000.00,
-        "price":6250.00,
-        "isItNormalPackage":false,
-        "image":"https://turkey.ganoexcel.com/ge/cms/images/LUVPACKB5.jpg",
-        "products":[
-          {
-            "image":"https://www.luvoco.com.tr/images/kapsulsistemi_evmak.jpg",
-            "name":"Luvoco Kahve Makinesi",
-            "count":1
-          },
-          {
-            "id":19,
-            "name":"LUVOCO CAPSULES AMOROSO",
-            "count":5
-          },
-           {
-             "id":20,
-             "name":"LUVOCO CAPSULES CLASSICO",
-             "count":5
-          },
-           {
-             "id":21,
-             "name":"LUVOCO CAPSULES RAFFINATO",
-             "count":5
-          }
-         
-        ],
-        "cashIncentive":600.00
-      },
-      {
-        "name":"LUV-OFFPACK-A1 PROFESSIONAL LUVOCO OFFICE CONCEPT PACKAGE A1",
-        "pv":1000.00,
-        "cv":480.00,
-        "price":26600.00,
-        "isItNormalPackage":false,
-        "image":"https://turkey.ganoexcel.com/ge/cms/images/luvocoNew.png",
-        "products":[
-          {
-            "name":"Profesyonel Kahve Makinesi",
-            "count":1
-          },
-          {
-            "name":"Profesyonel Luvoco Raffinato Kapsül",
-            "count":500
-          },
-           {
-             "name":"Beyaz Şeker",
-             "count":250
-          },
-           {
-             "name":"Kahverengi Şeker",
-             "count":200
-          },
-          {
-            "name":"Tatlandırıcı",
-            "count":75
-          },
-          {
-            "name":"Monin Şurup",
-            "count":7
-         },
-          {
-            "name":"Monin Pompa",
-            "count":7
-         }
-         
-        ],
-        "cashIncentive":null
       }
     ]
   }
