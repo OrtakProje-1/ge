@@ -185,7 +185,7 @@
         "purchasePrice": 672,
         "pv": 83,
         "cv": 267,
-        "isStocked":false,
+        "isStocked":true,
         "type": 0
       },
       {
