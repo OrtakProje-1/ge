@@ -1,3 +1,17 @@
 {
-  "apis": []
+  "apis": [
+    {
+      "name": "Pc Kolik",
+      "image": "https://pckolik.com/wp-content/uploads/2022/12/pckolikyenitemalogo-kucuk.png.webp",
+      "url": "https://pckolik.com/kategori/kisisel-bilgisayarlar/hazir-sistemler/geforce-rtx-sistemler/?min_price=11790&max_price=24680&orderby=date&per_page=45",
+      "itemsQuery": ".products > div > .product-wrapper",
+      "itemQueries": {
+        "nameQuery": "div:last-child > h3 > a",
+        "urlQuery": "div > a",
+        "imageQuery": "div > a > picture > img",
+        "amountQuery": "div:last-child > span > ins > span > bdi",
+        "stockedQuery": "div:last-child > p"
+      }
+    }
+  ]
 }
