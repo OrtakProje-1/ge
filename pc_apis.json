@@ -12,6 +12,19 @@
         "amountQuery": "div:last-child > span > ins > span > bdi",
         "stockedQuery": "div:last-child > p"
       }
+    },
+    {
+      "name": "Game Garaj",
+      "image": "https://www.gamegaraj.com/wp-content/themes/gamegaraj/assets/img/gamegaraj-logo.png",
+      "url": "https://www.gamegaraj.com/grup/firsat-urunler/?swoof=1&pa_ekran-karti-seri=nvidia-rtx4000-serisi,nvidia-rtx3000-serisi&really_curr_tax=1267-product_cat",
+      "itemsQuery": ".products > li",
+      "itemQueries": {
+        "nameQuery": ".edgtf-product-list-title",
+        "urlQuery": ".edgtf-pl-inner > a",
+        "imageQuery": ".edgtf-pl-image > img",
+        "amountQuery": "div:last-child > p",
+        "stockedQuery": ".edgtf-pl-inner > a"
+      }
     }
   ]
 }
