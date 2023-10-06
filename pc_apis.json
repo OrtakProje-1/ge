@@ -22,7 +22,7 @@
         "nameQuery": ".edgtf-product-list-title",
         "urlQuery": ".edgtf-pl-inner > a",
         "imageQuery": ".edgtf-pl-image > img",
-        "amountQuery": "div:last-child > p",
+        "amountQuery": "div[itemprop='description'] > p",
         "stockedQuery": ".edgtf-pl-inner > a"
       }
     }
