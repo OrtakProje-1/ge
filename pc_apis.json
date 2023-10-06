@@ -25,6 +25,19 @@
         "amountQuery": "div[itemprop='description'] > p",
         "stockedQuery": ".edgtf-pl-inner > a"
       }
+    },
+    {
+      "name": "Sinerji",
+      "image": "https://static.sinerji.gen.tr/Images/Site/oyun-bilgisayari-uzmani-sinerji.svg",
+      "url": "https://www.sinerji.gen.tr/oyun-bilgisayari-c-2116?price=14756-25046",
+      "itemsQuery": ".productList > div",
+      "itemQueries": {
+        "nameQuery": ".title > a",
+        "urlQuery": ".title > a",
+        "imageQuery": ".img > a > img",
+        "amountQuery": ".price",
+        "stockedQuery": ".randomText > a"
+      }
     }
   ]
 }
