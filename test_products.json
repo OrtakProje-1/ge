@@ -292,7 +292,7 @@
         "isStocked":true,
         "type": 2,
         "isNewProduct":true
-      },
+      }
     ],
     "cargoPrice":64.25,
     "cargoLimit":1000,
