@@ -185,7 +185,7 @@
         "purchasePrice": 672,
         "pv": 83,
         "cv": 267,
-        "isStocked":false,
+        "isStocked":true,
         "type": 0
       },
       {
@@ -271,7 +271,7 @@
       }
     ],
     "cargoPrice":64.25,
-    "cargoLimit":800,
+    "cargoLimit":1000,
     "packages":[
       {
         "name":"PROMO-PACK2-E14 Promotional Product Package 2",
