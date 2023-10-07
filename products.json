@@ -268,6 +268,30 @@
         "isStocked":true,
         "type": 1,
         "isNewProduct":true
+      },
+      {
+        "id": 25,
+        "name": "G’BEAUTE SHOWER SCRUB",
+        "image": "https://turkey.ganoexcel.com/ge/cms/images/GBSS.png",
+        "salePrice": 425.00,
+        "purchasePrice": 355.00,
+        "pv": 37,
+        "cv": 118,
+        "isStocked":true,
+        "type": 2,
+        "isNewProduct":true
+      },
+      {
+        "id": 26,
+        "name": "G’BEAUTE FACE MİST",
+        "image": "https://turkey.ganoexcel.com/ge/cms/images/GBFM.png",
+        "salePrice": 1036.00,
+        "purchasePrice": 864.00,
+        "pv": 90,
+        "cv": 288,
+        "isStocked":true,
+        "type": 2,
+        "isNewProduct":true
       }
     ],
     "cargoPrice":64.25,
