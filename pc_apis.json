@@ -38,6 +38,19 @@
         "amountQuery": ".price",
         "stockedQuery": ".randomText > a"
       }
+    },
+    {
+      "name": "İnce Hesap",
+      "image": "https://www.manage.com.tr/storage/g5ffpLSucb34mKbFddQSNnbFnOOdsQySmTA92Il9.png",
+      "url": "https://www.incehesap.com/hazir-sistemler-fiyatlari/fiyat-0-25000/sirala-ucuz/",
+      "itemsQuery": ".grid > div",
+      "itemQueries": {
+        "nameQuery": ".card > p",
+        "urlQuery": ".card > a",
+        "imageQuery": ".card > a > img",
+        "amountQuery": ".card > p.text-2xl",
+        "stockedQuery": ".randomText > a"
+      }
     }
   ]
 }
