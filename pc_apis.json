@@ -43,7 +43,7 @@
       "name": "İnce Hesap",
       "image": "https://www.manage.com.tr/storage/g5ffpLSucb34mKbFddQSNnbFnOOdsQySmTA92Il9.png",
       "url": "https://www.incehesap.com/hazir-sistemler-fiyatlari/fiyat-0-25000/sirala-ucuz/",
-      "itemsQuery": ".container > .card > .grid.grid-cols-2.md:grid-cols-3.gap-1 > .p-1.group",
+      "itemsQuery": ".container > .card > .grid.grid-cols-2.gap-1 > .p-1.group",
       "itemQueries": {
         "nameQuery": ".card > p",
         "urlQuery": ".card > a",
