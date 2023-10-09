@@ -51,6 +51,19 @@
         "amountQuery": ".card > p.text-2xl",
         "stockedQuery": ".randomText > a"
       }
+    },
+    {
+      "name": "Tebilon",
+      "image": "https://www.tebilon.com/picture200x0/logo_20210617153949-1706202115394944.png",
+      "url": "https://www.tebilon.com/bilgisayar/hazir-sistemler/?f=n&o=far&fmax=25670&fmin=12341",
+      "itemsQuery": "#allProducts > .row > div",
+      "itemQueries": {
+        "nameQuery": ".showcase__image > span",
+        "urlQuery": ".showcase__image > a ",
+        "imageQuery": ".showcase__image > a > img",
+        "amountQuery": ".newPrice",
+        "stockedQuery": ".randomText > a"
+      }
     }
   ]
 }
