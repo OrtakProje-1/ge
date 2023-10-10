@@ -4,6 +4,7 @@
       "name": "Pc Kolik",
       "image": "https://pckolik.com/wp-content/uploads/2022/12/pckolikyenitemalogo-kucuk.png.webp",
       "url": "https://pckolik.com/kategori/kisisel-bilgisayarlar/hazir-sistemler/geforce-rtx-sistemler/?min_price=11790&max_price=24680&orderby=date&per_page=45",
+      "pages":1,
       "itemsQuery": ".products > div > .product-wrapper",
       "itemQueries": {
         "nameQuery": "div:last-child > h3 > a",
@@ -16,7 +17,8 @@
     {
       "name": "Game Garaj",
       "image": "https://www.gamegaraj.com/wp-content/themes/gamegaraj/assets/img/gamegaraj-logo.png",
-      "url": "https://www.gamegaraj.com/grup/firsat-urunler/?swoof=1&pa_ekran-karti-seri=nvidia-rtx4000-serisi,nvidia-rtx3000-serisi&really_curr_tax=1267-product_cat",
+      "url": "https://www.gamegaraj.com/grup/firsat-urunler/page/1/?swoof=1&pa_ekran-karti-seri=nvidia-rtx4000-serisi%2Cnvidia-rtx3000-serisi&really_curr_tax=1267-product_cat",
+      "pages":3,
       "itemsQuery": ".products > li",
       "itemQueries": {
         "nameQuery": ".edgtf-product-list-title",
@@ -29,7 +31,8 @@
     {
       "name": "Sinerji",
       "image": "https://static.sinerji.gen.tr/Images/Site/oyun-bilgisayari-uzmani-sinerji.svg",
-      "url": "https://www.sinerji.gen.tr/oyun-bilgisayari-c-2116?price=14756-25046",
+      "url": "https://www.sinerji.gen.tr/oyun-bilgisayari-c-2116?price=14860-25046&px=1",
+      "pages":2,
       "itemsQuery": ".productList > div",
       "itemQueries": {
         "nameQuery": ".title > a",
@@ -42,7 +45,8 @@
     {
       "name": "İnce Hesap",
       "image": "https://www.manage.com.tr/storage/g5ffpLSucb34mKbFddQSNnbFnOOdsQySmTA92Il9.png",
-      "url": "https://www.incehesap.com/hazir-sistemler-fiyatlari/fiyat-0-25000/sirala-ucuz/",
+      "url": "https://www.incehesap.com/hazir-sistemler-fiyatlari/fiyat-0-25000/sirala-ucuz/sayfa-1/",
+      "pages":4,
       "itemsQuery": ".p-1.group",
       "itemQueries": {
         "nameQuery": ".card > p",
@@ -55,7 +59,8 @@
     {
       "name": "Tebilon",
       "image": "https://www.tebilon.com/picture200x0/logo_20210617153949-1706202115394944.png",
-      "url": "https://www.tebilon.com/bilgisayar/hazir-sistemler/?f=n&o=far&fmax=25670&fmin=12341",
+      "url": "https://www.tebilon.com/bilgisayar/hazir-sistemler/?page=1&f=n&o=far&fmax=25670&fmin=12341",
+      "pages":2,
       "itemsQuery": "#allProducts > .row > div",
       "itemQueries": {
         "nameQuery": ".showcase__image > span",
