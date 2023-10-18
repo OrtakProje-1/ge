@@ -77,7 +77,7 @@
       "pages":11,
       "itemsQuery": ".products > li",
       "itemQueries": {
-        "nameQuery": ".woocommerce-loop-product__title > span",
+        "nameQuery": ".woocommerce-loop-product__title",
         "urlQuery": ".showcase__image > a ",
         "imageQuery": ".inside-wc-product-image > img",
         "amountQuery": ".amount",
