@@ -69,6 +69,20 @@
         "amountQuery": ".newPrice",
         "stockedQuery": ".randomText > a"
       }
+    },
+    {
+      "name": "Gaming Gen",
+      "image": "https://www.gaming.gen.tr/wp-content/uploads/2023/09/gaminggentr-logo.png",
+      "url": "https://www.gaming.gen.tr/kategori/hazir-sistemler/page/1/?orderby=price&min_price=16790&max_price=40000",
+      "pages":11,
+      "itemsQuery": ".products > li",
+      "itemQueries": {
+        "nameQuery": ".woocommerce-loop-product__title > span",
+        "urlQuery": ".showcase__image > a ",
+        "imageQuery": ".inside-wc-product-image > img",
+        "amountQuery": ".amount",
+        "stockedQuery": ".randomText > a"
+      }
     }
   ]
 }
