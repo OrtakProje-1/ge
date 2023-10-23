@@ -101,6 +101,23 @@
         "amountQuery": ".amount",
         "stockedQuery": ".randomText > a"
       }
+    },
+    {
+      "name": "İtopya",
+      "image": "https://img-itopya.mncdn.com/cdn/1000/itopya-logo.png",
+      "url": "https://www.itopya.com/HazirSistemler?mx=40000&pg=1",
+      "itemsQuery": "#productList > .product",
+      "paginationQuery": ".product-list-header > .actions > strong",
+      "imagePrefix": null,
+      "urlPrefix": "https://www.itopya.com/",
+      "imageAttribute": "src",
+      "itemQueries": {
+        "nameQuery": "a.title",
+        "urlQuery": ".product-header > a",
+        "imageQuery": "img.lozad",
+        "amountQuery": ".price > strong",
+        "stockedQuery": ".randomText > a"
+      }
     }
   ]
 }
