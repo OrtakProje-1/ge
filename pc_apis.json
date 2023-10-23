@@ -114,7 +114,7 @@
       "itemQueries": {
         "nameQuery": "a.title",
         "urlQuery": ".product-header > a",
-        "imageQuery": "img.lozad",
+        "imageQuery": ".product-header > a > img",
         "amountQuery": ".price > strong",
         "stockedQuery": ".randomText > a"
       }
