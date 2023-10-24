@@ -8,7 +8,7 @@
       "paginationQuery": null,
       "imagePrefix": null,
       "urlPrefix": null,
-      "imageAttribute": "src",
+      "imageAttribute": null,
       "itemQueries": {
         "nameQuery": "div:last-child > h3 > a",
         "urlQuery": "div > a",
@@ -25,7 +25,7 @@
       "paginationQuery": ".page-numbers > li",
       "imagePrefix": null,
       "urlPrefix": null,
-      "imageAttribute": "src",
+      "imageAttribute": null,
       "itemQueries": {
         "nameQuery": ".edgtf-product-list-title",
         "urlQuery": ".edgtf-pl-inner > a",
@@ -42,7 +42,7 @@
       "paginationQuery": ".paging > a",
       "imagePrefix": null,
       "urlPrefix": null,
-      "imageAttribute": "src",
+      "imageAttribute": null,
       "itemQueries": {
         "nameQuery": ".title > a",
         "urlQuery": ".title > a",
@@ -59,7 +59,7 @@
       "paginationQuery": "nav[aria-label='Pagination'] > a",
       "imagePrefix": "https://www.incehesap.com",
       "urlPrefix": "https://www.incehesap.com",
-      "imageAttribute": "src",
+      "imageAttribute": null,
       "itemQueries": {
         "nameQuery": ".card > p",
         "urlQuery": ".card > a",
@@ -76,7 +76,7 @@
       "paginationQuery": ".productSort__paginationBottom > .productSort__pagination > a",
       "imagePrefix": null,
       "urlPrefix": null,
-      "imageAttribute": "src",
+      "imageAttribute": null,
       "itemQueries": {
         "nameQuery": ".showcase__image > span",
         "urlQuery": ".showcase__image > a ",
@@ -107,10 +107,10 @@
       "image": "https://img-itopya.mncdn.com/cdn/1000/itopya-logo.png",
       "url": "https://www.itopya.com/HazirSistemler?mx=40000&pg=1",
       "itemsQuery": "#productList > .product",
-      "paginationQuery": ".product-list-header > .actions > strong",
+      "paginationQuery": ".product-list-header > .actions > span > strong",
       "imagePrefix": null,
       "urlPrefix": "https://www.itopya.com/",
-      "imageAttribute": "src",
+      "imageAttribute": null,
       "itemQueries": {
         "nameQuery": "a.title",
         "urlQuery": ".product-header > a",
