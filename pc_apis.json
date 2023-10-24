@@ -108,8 +108,8 @@
       "url": "https://www.itopya.com/HazirSistemler?mx=40000&pg=1",
       "itemsQuery": "#productList > .product",
       "paginationQuery": ".product-list-header > .actions > span > strong",
-      "imagePrefix": "https://www.itopya.com/",
-      "urlPrefix": "https://www.itopya.com/",
+      "imagePrefix": "https://www.itopya.com",
+      "urlPrefix": "https://www.itopya.com",
       "imageAttribute": null,
       "itemQueries": {
         "nameQuery": "a.title",
