@@ -41,7 +41,7 @@
       "itemsQuery": ".productList > div",
       "paginationQuery": ".paging > a",
       "imagePrefix": null,
-      "urlPrefix": null,
+      "urlPrefix": "https://www.sinerji.gen.tr",
       "imageAttribute": null,
       "itemQueries": {
         "nameQuery": ".title > a",
