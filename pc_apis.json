@@ -93,7 +93,7 @@
       "paginationQuery": ".page-numbers > li > a",
       "imagePrefix": null,
       "urlPrefix": null,
-      "imageAttribute": "src",
+      "imageAttribute": "data-src",
       "itemQueries": {
         "nameQuery": ".woocommerce-loop-product__title",
         "urlQuery": ".product-type-composite > a",
