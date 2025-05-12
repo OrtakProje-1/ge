@@ -294,7 +294,7 @@
         "isNewProduct":true
       }
     ],
-    "cargoPrice":150,
+    "cargoPrice":150.0,
     "cargoLimit":2500,
     "packages":[
       {
