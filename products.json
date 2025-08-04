@@ -382,6 +382,37 @@
       "cashIncentive": 120.00
     },
     {
+      "name": "LUV-PACKAGE-C2 Luvoco Promosyon C2 Paketi",
+      "pv": 105.00,
+      "cv": 459.00,
+      "price": 4000.00,
+      "isItNormalPackage": false,
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-PACKAGE-C2.jpg",
+      "products": [
+        {
+          "image": "https://www.luvoco.com.tr/images/kapsulsistemi_evmak.jpg",
+          "name": "Luvoco Kahve Makinesi",
+          "count": 1
+        },
+        {
+          "id": 19,
+          "name": "LUVOCO CAPSULES AMOROSO",
+          "count": 1
+        },
+        {
+          "id": 20,
+          "name": "LUVOCO CAPSULES CLASSICO",
+          "count": 1
+        },
+        {
+          "id": 21,
+          "name": "LUVOCO CAPSULES RAFFINATO",
+          "count": 1
+        }
+      ],
+      "cashIncentive": 120.00
+    },
+    {
       "name": "PROMO-PACK2-E22N Promotional Product Package 2",
       "pv": 446.00,
       "cv": 1931.00,
@@ -441,6 +472,37 @@
         }
       ],
       "cashIncentive": 400.00
+    },
+    {
+      "name": "LUV-PACKAGE-B11 Luvoco Promosyon B11 Paketi",
+      "pv": 525.00,
+      "cv": 2295.00,
+      "price": 10000.00,
+      "isItNormalPackage": false,
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-PACKAGE-B11.jpg",
+      "products": [
+        {
+          "image": "https://www.luvoco.com.tr/images/kapsulsistemi_evmak.jpg",
+          "name": "Luvoco Kahve Makinesi",
+          "count": 1
+        },
+        {
+          "id": 19,
+          "name": "LUVOCO CAPSULES AMOROSO",
+          "count": 5
+        },
+        {
+          "id": 20,
+          "name": "LUVOCO CAPSULES CLASSICO",
+          "count": 5
+        },
+        {
+          "id": 21,
+          "name": "LUVOCO CAPSULES RAFFINATO",
+          "count": 5
+        }
+      ],
+      "cashIncentive": 800.00
     },
     {
       "name": "PROMO-PACK3-E22N Promotional Product Package 3",
@@ -532,6 +594,63 @@
         }
       ],
       "cashIncentive": 800.00
+    },
+    {
+      "name": "LUV-OFFPACK-A2  Profesyonel LUVOCO Ofis Konsept Paketi A2",
+      "pv": 600.00,
+      "cv": 1500.00,
+      "price": 19800.00,
+      "isItNormalPackage": false,
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-OFFPACK-A2.jpg",
+      "products": [
+        {
+          "image": "https://luvoco.com.tr/images/kapsulsistemi_promak.jpg",
+          "name": "Profesyonel Luvoco Kahve Makinesi",
+          "count": 1
+        },
+        {
+          "image": "https://luvoco.com.tr/images/kapsulsistemi_prokap.jpg",
+          "name": "Profesyonel Luvoco Raffinato Kapsül",
+          "count": 200
+        }
+      ],
+      "cashIncentive": null
+    },
+    {
+      "name": "LUV-OFFPACK-A3 Profesyonel LUVOCO Ofis Konsept Paketi A3",
+      "pv": 600.00,
+      "cv": 1500.00,
+      "price": 21480.00,
+      "isItNormalPackage": false,
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-OFFPACK-A3.jpg",
+      "products": [
+        {
+          "image": "https://luvoco.com.tr/images/kapsulsistemi_promak.jpg",
+          "name": "Profesyonel Luvoco Kahve Makinesi",
+          "count": 1
+        },
+        {
+          "image": "https://luvoco.com.tr/images/kapsulsistemi_prokap.jpg",
+          "name": "Profesyonel Luvoco Raffinato Kapsül",
+          "count": 200
+        },
+        {
+          "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/43439/uploads/urunresimleri/buyuk/vanilya-surubu-700-ml-09a29b.jpg",
+          "name": "Monin Vanilla Surup",
+          "count": 1
+        },
+        {
+          "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/43439/uploads/urunresimleri/buyuk/cikolata-surubu-700-ml-98fcea.jpg",
+          "name": "Monin Chocolat Surup",
+          "count": 1
+        },
+        {
+          "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/43439/uploads/urunresimleri/buyuk/monin-surup-pompasi-10-ml-a5-3d4.jpg",
+          "name": "Monin Pompa",
+          "count": 2
+        }
+      ],
+      "cashIncentive": null
     }
   ]
 }
