@@ -4,10 +4,10 @@
       "id": 1,
       "name": "GANO SUPRENO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GSP-new.jpg",
-      "salePrice": 583.00,
-      "purchasePrice": 485.60,
-      "pv": 43,
-      "cv": 192,
+      "salePrice": 700.00,
+      "purchasePrice": 582.80,
+      "pv": 52,
+      "cv": 230,
       "type": 1,
       "isStocked": true
     },
@@ -15,10 +15,10 @@
       "id": 2,
       "name": "GANOCAFE CLASSIC",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/CC-turkey-new1.jpg",
-      "salePrice": 563.00,
-      "purchasePrice": 469.20,
-      "pv": 43,
-      "cv": 185,
+      "salePrice": 680.00,
+      "purchasePrice": 563.10,
+      "pv": 52,
+      "cv": 222,
       "isStocked": true,
       "type": 1
     },
@@ -26,10 +26,10 @@
       "id": 3,
       "name": "GANOCAFE 3 IN 1",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/C-turkey-new.jpg",
-      "salePrice": 581.00,
-      "purchasePrice": 484.20,
-      "pv": 44,
-      "cv": 191,
+      "salePrice": 730.00,
+      "purchasePrice": 605.30,
+      "pv": 55,
+      "cv": 239,
       "isStocked": true,
       "type": 1
     },
@@ -37,10 +37,10 @@
       "id": 4,
       "name": "GANOCAFE MOCHA",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/cm-turkey.jpg",
-      "salePrice": 587.00,
-      "purchasePrice": 489.00,
-      "pv": 45,
-      "cv": 193,
+      "salePrice": 710.00,
+      "purchasePrice": 586.80,
+      "pv": 54,
+      "cv": 232,
       "isStocked": true,
       "type": 1
     },
@@ -59,10 +59,10 @@
       "id": 6,
       "name": "GANO SCHOKOLADE 3 in 1",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/schokolade.jpg",
-      "salePrice": 641.00,
-      "purchasePrice": 533.80,
-      "pv": 48,
-      "cv": 211,
+      "salePrice": 700.00,
+      "purchasePrice": 640.60,
+      "pv": 58,
+      "cv": 253,
       "isStocked": true,
       "type": 1
     },
@@ -81,10 +81,10 @@
       "id": 8,
       "name": "OLEAF GANO ROOBIOS DRINK",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/rooibos.jpg",
-      "salePrice": 588.00,
-      "purchasePrice": 489.70,
-      "pv": 45,
-      "cv": 193,
+      "salePrice": 710.00,
+      "purchasePrice": 587.70,
+      "pv": 54,
+      "cv": 232,
       "isStocked": true,
       "type": 1
     },
@@ -103,10 +103,10 @@
       "id": 10,
       "name": "GANO TRANSPARENT SOAP",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/prodImages/ge/webb/GTS.jpg",
-      "salePrice": 382.00,
-      "purchasePrice": 318.00,
-      "pv": 25,
-      "cv": 106,
+      "salePrice": 500.00,
+      "purchasePrice": 413.40,
+      "pv": 33,
+      "cv": 138,
       "isStocked": true,
       "type": 2
     },
@@ -114,10 +114,10 @@
       "id": 11,
       "name": "GANO SOAP",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/sTurkey.jpg",
-      "salePrice": 392.00,
-      "purchasePrice": 326.50,
-      "pv": 25,
-      "cv": 108,
+      "salePrice": 510.00,
+      "purchasePrice": 424.50,
+      "pv": 33,
+      "cv": 140,
       "isStocked": true,
       "type": 2
     },
@@ -125,10 +125,10 @@
       "id": 12,
       "name": "GANO FRESH",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/gf-1.jpg",
-      "salePrice": 353,
-      "purchasePrice": 294.10,
-      "pv": 25,
-      "cv": 107,
+      "salePrice": 460.00,
+      "purchasePrice": 382.40,
+      "pv": 33,
+      "cv": 139,
       "isStocked": true,
       "type": 2
     },
@@ -136,10 +136,10 @@
       "id": 13,
       "name": "GANOCORDY 60",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/ganocordya.jpg",
-      "salePrice": 847.00,
-      "purchasePrice": 705.70,
-      "pv": 65,
-      "cv": 279,
+      "salePrice": 1110.00,
+      "purchasePrice": 917.50,
+      "pv": 85,
+      "cv": 363,
       "isStocked": true,
       "type": 0
     },
@@ -147,10 +147,10 @@
       "id": 14,
       "name": "GANODERMA 90",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/g-turkey-new.jpg",
-      "salePrice": 720.00,
-      "purchasePrice": 600.00,
-      "pv": 55,
-      "cv": 238,
+      "salePrice": 940.00,
+      "purchasePrice": 780.50,
+      "pv": 72,
+      "cv": 309,
       "isStocked": true,
       "type": 0
     },
@@ -158,10 +158,10 @@
       "id": 15,
       "name": "EXCELLIUM 90",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/e9-turkey-new.jpg",
-      "salePrice": 720.00,
-      "purchasePrice": 600.00,
-      "pv": 55,
-      "cv": 238,
+      "salePrice": 940.00,
+      "purchasePrice": 780.50,
+      "pv": 72,
+      "cv": 309,
       "isStocked": true,
       "type": 0
     },
@@ -169,10 +169,10 @@
       "id": 16,
       "name": "EXCELLIUM GOLD 60",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/EGold6.jpg",
-      "salePrice": 1524.00,
-      "purchasePrice": 1270.10,
-      "pv": 116,
-      "cv": 503,
+      "salePrice": 1830.00,
+      "purchasePrice": 1524.20,
+      "pv": 139,
+      "cv": 604,
       "isStocked": true,
       "type": 0
     },
@@ -180,10 +180,10 @@
       "id": 17,
       "name": "REISHI GOLD 60",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/RGold6.jpg",
-      "salePrice": 1524.00,
-      "purchasePrice": 1270.10,
-      "pv": 116,
-      "cv": 503,
+      "salePrice": 1830.00,
+      "purchasePrice": 1524.20,
+      "pv": 139,
+      "cv": 604,
       "isStocked": true,
       "type": 0
     },
@@ -202,10 +202,10 @@
       "id": 19,
       "name": "LUVOCO CAPSULES AMOROSO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/Amoroso.jpg",
-      "salePrice": 466.00,
-      "purchasePrice": 388.20,
-      "pv": 35,
-      "cv": 153,
+      "salePrice": 610.00,
+      "purchasePrice": 504.70,
+      "pv": 46,
+      "cv": 199,
       "isStocked": true,
       "type": 1
     },
@@ -213,10 +213,10 @@
       "id": 20,
       "name": "LUVOCO CAPSULES CLASSICO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/Classico.jpg",
-      "salePrice": 466.00,
-      "purchasePrice": 388.20,
-      "pv": 35,
-      "cv": 153,
+      "salePrice": 610.00,
+      "purchasePrice": 504.70,
+      "pv": 46,
+      "cv": 199,
       "isStocked": true,
       "type": 1
     },
@@ -224,10 +224,10 @@
       "id": 21,
       "name": "LUVOCO CAPSULES RAFFINATO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/Raffinato.jpg",
-      "salePrice": 466.00,
-      "purchasePrice": 388.20,
-      "pv": 35,
-      "cv": 153,
+      "salePrice": 610.00,
+      "purchasePrice": 504.70,
+      "pv": 46,
+      "cv": 199,
       "isStocked": true,
       "type": 1
     },
@@ -235,49 +235,45 @@
       "id": 22,
       "name": "GANOCAFE MOCHARICO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/MRICO-Mocharico.png",
-      "salePrice": 594.00,
-      "purchasePrice": 495.10,
-      "pv": 45,
-      "cv": 196,
+      "salePrice": 775.00,
+      "purchasePrice": 643.70,
+      "pv": 59,
+      "cv": 255,
       "isStocked": true,
-      "type": 1,
-      "isNewProduct": true
+      "type": 1
     },
     {
       "id": 23,
       "name": "GANOCAFE LATTERICO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/LRICO-Latterico.png",
-      "salePrice": 616.00,
-      "purchasePrice": 513,
-      "pv": 47,
-      "cv": 202,
+      "salePrice": 740.00,
+      "purchasePrice": 615.60,
+      "pv": 56,
+      "cv": 242,
       "isStocked": true,
-      "type": 1,
-      "isNewProduct": true
+      "type": 1
     },
     {
       "id": 24,
       "name": "GANOCAFE SHOKORICO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/CRICO-Shokorico.png",
-      "salePrice": 662.00,
-      "purchasePrice": 551.50,
-      "pv": 51,
-      "cv": 218,
+      "salePrice": 795.00,
+      "purchasePrice": 661.80,
+      "pv": 59,
+      "cv": 255,
       "isStocked": true,
-      "type": 1,
-      "isNewProduct": true
+      "type": 1
     },
     {
       "id": 25,
       "name": "G’BEAUTE SHOWER SCRUB",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBSS.png",
-      "salePrice": 575.00,
+      "salePrice": 580.00,
       "purchasePrice": 479.30,
       "pv": 37,
       "cv": 159,
       "isStocked": true,
-      "type": 2,
-      "isNewProduct": true
+      "type": 2
     },
     {
       "id": 26,
@@ -288,41 +284,38 @@
       "pv": 90,
       "cv": 388,
       "isStocked": true,
-      "type": 2,
-      "isNewProduct": true
+      "type": 2
     },
     {
       "id": 27,
       "name": "G’BEAUTE HAIR SHAMPOO",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBHS.png",
-      "salePrice": 693.00,
+      "salePrice": 700.00,
       "purchasePrice": 577.90,
       "pv": 44,
       "cv": 192,
       "isStocked": false,
-      "type": 2,
-      "isNewProduct": true
+      "type": 2
     },
     {
       "id": 28,
       "name": "G’BEAUTE HAIR CONDITIONER",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBHC.png",
-      "salePrice": 739.00,
+      "salePrice": 740.00,
       "purchasePrice": 615.60,
       "pv": 47,
       "cv": 205,
       "isStocked": false,
-      "type": 2,
-      "isNewProduct": true
+      "type": 2
     }
   ],
   "cargoPrice": 150.0,
-  "cargoLimit": 2500,
+  "cargoLimit": 3500,
   "packages": [
     {
       "name": "GBNP G’BEAUTE NEW PROMOTİON",
       "pv": 92.00,
-      "cv": 297.00,
+      "cv": 397.00,
       "price": 1193.50,
       "isItNormalPackage": true,
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBNP.jpg",
@@ -341,26 +334,21 @@
       "cashIncentive": 0.0
     },
     {
-      "name": "PROMO-PACK1-E23N Promotional Product Package 1",
-      "pv": 264.00,
-      "cv": 1143.00,
-      "price": 3000.00,
+      "name": "PROMO-PACK1-E24N Promotional Product Package 1",
+      "pv": 301.00,
+      "cv": 1290.00,
+      "price": 3500.00,
       "isItNormalPackage": true,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/PROMO-PACK1-E23N.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/PROMO-PACK1-E24N.jpg",
       "products": [
-        {
-          "id": 14,
-          "name": "GANODERMA 90",
-          "count": 1
-        },
-        {
-          "id": 15,
-          "name": "EXCELLIUM 90",
-          "count": 1
-        },
         {
           "id": 3,
           "name": "GANOCAFE 3 in 1",
+          "count": 1
+        },
+        {
+          "id": 2,
+          "name": "GANOCAFE CLASSIC",
           "count": 1
         },
         {
@@ -369,25 +357,40 @@
           "count": 1
         },
         {
-          "id": 25,
-          "name": "G'BEAUTE SHOWER SCRUB",
+          "id": 1,
+          "name": "GANO SUPRENO",
           "count": 1
         },
         {
           "id": 10,
           "name": "GANO TRANSPARENT SOAP",
           "count": 1
+        },
+        {
+          "id": 11,
+          "name": "GANO SOAP",
+          "count": 2
+        },
+        {
+          "id": 12,
+          "name": "GANO FRESH",
+          "count": 1
+        },
+        {
+          "id": 25,
+          "name": "G'BEAUTE SHOWER SCRUB",
+          "count": 1
         }
       ],
-      "cashIncentive": 120.00
+      "cashIncentive": 150.00
     },
     {
-      "name": "LUV-PACKAGE-C2 Luvoco Promosyon C2 Paketi",
-      "pv": 105.00,
-      "cv": 459.00,
-      "price": 4000.00,
+      "name": "LUV-PACKAGE-C3 Luvoco Promosyon C3 Paketi",
+      "pv": 138.00,
+      "cv": 597.00,
+      "price": 5000.00,
       "isItNormalPackage": false,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-PACKAGE-C2.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-PACKAGE-C3.jpg",
       "products": [
         {
           "image": "https://www.luvoco.com.tr/images/kapsulsistemi_evmak.jpg",
@@ -413,12 +416,12 @@
       "cashIncentive": 120.00
     },
     {
-      "name": "PROMO-PACK2-E22N Promotional Product Package 2",
-      "pv": 446.00,
-      "cv": 1931.00,
+      "name": "PROMO-PACK2-E24N Promotional Product Package 2",
+      "pv": 457.00,
+      "cv": 1965.00,
       "price": 5000.00,
       "isItNormalPackage": true,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/PACK2E22N_A.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/PROMO-PACK2-E24N.jpg",
       "products": [
         {
           "id": 14,
@@ -431,13 +434,23 @@
           "count": 1
         },
         {
-          "id": 1,
-          "name": "GANO SUPRENO",
+          "id": 3,
+          "name": "GANOCAFE 3 IN 1",
           "count": 1
         },
         {
-          "id": 4,
-          "name": "GANOCAFE MOCHA",
+          "id": 2,
+          "name": "GANOCAFE CLASSIC",
+          "count": 1
+        },
+        {
+          "id": 6,
+          "name": "GANO SCHOKOLADE",
+          "count": 1
+        },
+        {
+          "id": 8,
+          "name": "OLEAF GANO ROOBIOS DRINK",
           "count": 1
         },
         {
@@ -446,40 +459,20 @@
           "count": 1
         },
         {
-          "id": 3,
-          "name": "GANOCAFE 3 IN 1",
-          "count": 1
-        },
-        {
-          "id": 2,
-          "name": "GANOCAFE CLASSIC",
-          "count": 1
-        },
-        {
-          "id": 6,
-          "name": "GANO SCHOKOLADE",
-          "count": 1
-        },
-        {
-          "id": 10,
-          "name": "GANO TRANSPARENT SOAP",
-          "count": 1
-        },
-        {
-          "id": 25,
-          "name": "G’BEAUTE SHOWER SCRUB",
+          "id": 12,
+          "name": "GANO FRESH",
           "count": 1
         }
       ],
       "cashIncentive": 400.00
     },
     {
-      "name": "LUV-PACKAGE-B11 Luvoco Promosyon B11 Paketi",
-      "pv": 525.00,
-      "cv": 2295.00,
+      "name": "LUV-PACKAGE-B12 Luvoco Promosyon B12 Paketi",
+      "pv": 460.00,
+      "cv": 1990.00,
       "price": 10000.00,
       "isItNormalPackage": false,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-PACKAGE-B11.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-PACKAGE-B12.jpg",
       "products": [
         {
           "image": "https://www.luvoco.com.tr/images/kapsulsistemi_evmak.jpg",
@@ -489,28 +482,28 @@
         {
           "id": 19,
           "name": "LUVOCO CAPSULES AMOROSO",
-          "count": 5
+          "count": 3
         },
         {
           "id": 20,
           "name": "LUVOCO CAPSULES CLASSICO",
-          "count": 5
+          "count": 3
         },
         {
           "id": 21,
           "name": "LUVOCO CAPSULES RAFFINATO",
-          "count": 5
+          "count": 4
         }
       ],
       "cashIncentive": 800.00
     },
     {
-      "name": "PROMO-PACK3-E22N Promotional Product Package 3",
-      "pv": 857.00,
-      "cv": 3708.00,
+      "name": "PROMO-PACK3-E24N Promotional Product Package 3",
+      "pv": 892.00,
+      "cv": 3845.00,
       "price": 10000.00,
       "isItNormalPackage": true,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/PACK3E22N_A.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/PROMO-PACK3-E24N.jpg",
       "products": [
         {
           "id": 14,
@@ -535,7 +528,7 @@
         {
           "id": 6,
           "name": "GANO SCHOKOLADE",
-          "count": 1
+          "count": 2
         },
         {
           "id": 1,
@@ -558,18 +551,8 @@
           "count": 1
         },
         {
-          "id": 11,
-          "name": "GANO SOAP",
-          "count": 2
-        },
-        {
           "id": 12,
           "name": "GANO FRESH",
-          "count": 1
-        },
-        {
-          "id": 10,
-          "name": "GANO TRANSPARENT SOAP",
           "count": 1
         },
         {
@@ -581,27 +564,17 @@
           "id": 25,
           "name": "G’BEAUTE SHOWER SCRUB",
           "count": 1
-        },
-        {
-          "id": 27,
-          "name": "G’BEAUTE HAIR SHAMPOO",
-          "count": 1
-        },
-        {
-          "id": 28,
-          "name": "G’BEAUTE HAIR CONDITIONER",
-          "count": 1
         }
       ],
       "cashIncentive": 800.00
     },
     {
-      "name": "LUV-OFFPACK-A2  Profesyonel LUVOCO Ofis Konsept Paketi A2",
+      "name": "LUV-OFFPACK-A4  Profesyonel LUVOCO Ofis Konsept Paketi A4",
       "pv": 600.00,
-      "cv": 1500.00,
+      "cv": 1524.00,
       "price": 19800.00,
       "isItNormalPackage": false,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-OFFPACK-A2.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-OFFPACK-A4.jpg",
       "products": [
         {
           "image": "https://luvoco.com.tr/images/kapsulsistemi_promak.jpg",
@@ -611,18 +584,18 @@
         {
           "image": "https://luvoco.com.tr/images/kapsulsistemi_prokap.jpg",
           "name": "Profesyonel Luvoco Raffinato Kapsül",
-          "count": 200
+          "count": 100
         }
       ],
       "cashIncentive": null
     },
     {
-      "name": "LUV-OFFPACK-A3 Profesyonel LUVOCO Ofis Konsept Paketi A3",
+      "name": "LUV-OFFPACK-A5 Profesyonel LUVOCO Ofis Konsept Paketi A5",
       "pv": 600.00,
-      "cv": 1500.00,
+      "cv": 1524.00,
       "price": 21480.00,
       "isItNormalPackage": false,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-OFFPACK-A3.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LUV-OFFPACK-A5.jpg",
       "products": [
         {
           "image": "https://luvoco.com.tr/images/kapsulsistemi_promak.jpg",
@@ -632,7 +605,7 @@
         {
           "image": "https://luvoco.com.tr/images/kapsulsistemi_prokap.jpg",
           "name": "Profesyonel Luvoco Raffinato Kapsül",
-          "count": 200
+          "count": 100
         },
         {
           "image": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/43439/uploads/urunresimleri/buyuk/vanilya-surubu-700-ml-09a29b.jpg",
