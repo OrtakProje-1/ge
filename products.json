@@ -334,57 +334,6 @@
       "cashIncentive": 0.0
     },
     {
-      "name": "PROMO-PACK1-E24N Promotional Product Package 1",
-      "pv": 301.00,
-      "cv": 1290.00,
-      "price": 3500.00,
-      "isItNormalPackage": true,
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/PROMO-PACK1-E24N.jpg",
-      "products": [
-        {
-          "id": 3,
-          "name": "GANOCAFE 3 in 1",
-          "count": 1
-        },
-        {
-          "id": 2,
-          "name": "GANOCAFE CLASSIC",
-          "count": 1
-        },
-        {
-          "id": 6,
-          "name": "GANO SCHOKOLADE 3 in 1",
-          "count": 1
-        },
-        {
-          "id": 1,
-          "name": "GANO SUPRENO",
-          "count": 1
-        },
-        {
-          "id": 10,
-          "name": "GANO TRANSPARENT SOAP",
-          "count": 1
-        },
-        {
-          "id": 11,
-          "name": "GANO SOAP",
-          "count": 2
-        },
-        {
-          "id": 12,
-          "name": "GANO FRESH",
-          "count": 1
-        },
-        {
-          "id": 25,
-          "name": "G'BEAUTE SHOWER SCRUB",
-          "count": 1
-        }
-      ],
-      "cashIncentive": 150.00
-    },
-    {
       "name": "LUV-PACKAGE-C3 Luvoco Promosyon C3 Paketi",
       "pv": 138.00,
       "cv": 597.00,
