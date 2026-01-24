@@ -6,7 +6,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GSP-new.jpg",
       "salePrice": 700.00,
       "purchasePrice": 582.80,
-      "pv": 52,
+      "pv": 36,
       "cv": 230,
       "type": 1,
       "isStocked": true
@@ -17,7 +17,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/CC-turkey-new1.jpg",
       "salePrice": 680.00,
       "purchasePrice": 563.10,
-      "pv": 52,
+      "pv": 36,
       "cv": 222,
       "isStocked": true,
       "type": 1
@@ -28,7 +28,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/C-turkey-new.jpg",
       "salePrice": 730.00,
       "purchasePrice": 605.30,
-      "pv": 55,
+      "pv": 39,
       "cv": 239,
       "isStocked": true,
       "type": 1
@@ -39,7 +39,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/cm-turkey.jpg",
       "salePrice": 710.00,
       "purchasePrice": 586.80,
-      "pv": 54,
+      "pv": 38,
       "cv": 232,
       "isStocked": true,
       "type": 1
@@ -59,9 +59,9 @@
       "id": 6,
       "name": "GANO SCHOKOLADE 3 in 1",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/schokolade.jpg",
-      "salePrice": 700.00,
+      "salePrice": 770.00,
       "purchasePrice": 640.60,
-      "pv": 58,
+      "pv": 41,
       "cv": 253,
       "isStocked": true,
       "type": 1
@@ -83,7 +83,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/rooibos.jpg",
       "salePrice": 710.00,
       "purchasePrice": 587.70,
-      "pv": 54,
+      "pv": 38,
       "cv": 232,
       "isStocked": true,
       "type": 1
@@ -105,7 +105,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/prodImages/ge/webb/GTS.jpg",
       "salePrice": 500.00,
       "purchasePrice": 413.40,
-      "pv": 33,
+      "pv": 23,
       "cv": 138,
       "isStocked": true,
       "type": 2
@@ -116,7 +116,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/sTurkey.jpg",
       "salePrice": 510.00,
       "purchasePrice": 424.50,
-      "pv": 33,
+      "pv": 23,
       "cv": 140,
       "isStocked": true,
       "type": 2
@@ -127,7 +127,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/gf-1.jpg",
       "salePrice": 460.00,
       "purchasePrice": 382.40,
-      "pv": 33,
+      "pv": 23,
       "cv": 139,
       "isStocked": true,
       "type": 2
@@ -138,7 +138,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/ganocordya.jpg",
       "salePrice": 1110.00,
       "purchasePrice": 917.50,
-      "pv": 85,
+      "pv": 60,
       "cv": 363,
       "isStocked": true,
       "type": 0
@@ -149,7 +149,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/g-turkey-new.jpg",
       "salePrice": 940.00,
       "purchasePrice": 780.50,
-      "pv": 72,
+      "pv": 50,
       "cv": 309,
       "isStocked": true,
       "type": 0
@@ -160,7 +160,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/e9-turkey-new.jpg",
       "salePrice": 940.00,
       "purchasePrice": 780.50,
-      "pv": 72,
+      "pv": 50,
       "cv": 309,
       "isStocked": true,
       "type": 0
@@ -171,7 +171,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/EGold6.jpg",
       "salePrice": 1830.00,
       "purchasePrice": 1524.20,
-      "pv": 139,
+      "pv": 97,
       "cv": 604,
       "isStocked": true,
       "type": 0
@@ -182,7 +182,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/RGold6.jpg",
       "salePrice": 1830.00,
       "purchasePrice": 1524.20,
-      "pv": 139,
+      "pv": 97,
       "cv": 604,
       "isStocked": true,
       "type": 0
@@ -204,7 +204,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/Amoroso.jpg",
       "salePrice": 610.00,
       "purchasePrice": 504.70,
-      "pv": 46,
+      "pv": 32,
       "cv": 199,
       "isStocked": true,
       "type": 1
@@ -215,7 +215,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/Classico.jpg",
       "salePrice": 610.00,
       "purchasePrice": 504.70,
-      "pv": 46,
+      "pv": 32,
       "cv": 199,
       "isStocked": true,
       "type": 1
@@ -226,7 +226,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/Raffinato.jpg",
       "salePrice": 610.00,
       "purchasePrice": 504.70,
-      "pv": 46,
+      "pv": 32,
       "cv": 199,
       "isStocked": true,
       "type": 1
@@ -237,7 +237,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/MRICO-Mocharico.png",
       "salePrice": 775.00,
       "purchasePrice": 643.70,
-      "pv": 59,
+      "pv": 41,
       "cv": 255,
       "isStocked": true,
       "type": 1
@@ -248,7 +248,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/LRICO-Latterico.png",
       "salePrice": 740.00,
       "purchasePrice": 615.60,
-      "pv": 56,
+      "pv": 39,
       "cv": 242,
       "isStocked": true,
       "type": 1
@@ -259,7 +259,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/CRICO-Shokorico.png",
       "salePrice": 795.00,
       "purchasePrice": 661.80,
-      "pv": 59,
+      "pv": 43,
       "cv": 255,
       "isStocked": true,
       "type": 1
@@ -270,7 +270,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBSS.png",
       "salePrice": 580.00,
       "purchasePrice": 479.30,
-      "pv": 37,
+      "pv": 26,
       "cv": 159,
       "isStocked": true,
       "type": 2
@@ -281,7 +281,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBFM.png",
       "salePrice": 1400.00,
       "purchasePrice": 1166.40,
-      "pv": 90,
+      "pv": 63,
       "cv": 388,
       "isStocked": true,
       "type": 2
@@ -292,7 +292,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBHS.png",
       "salePrice": 700.00,
       "purchasePrice": 577.90,
-      "pv": 44,
+      "pv": 31,
       "cv": 192,
       "isStocked": false,
       "type": 2
@@ -303,7 +303,7 @@
       "image": "https://turkey.ganoexcel.com/ge/cms/images/GBHC.png",
       "salePrice": 740.00,
       "purchasePrice": 615.60,
-      "pv": 47,
+      "pv": 33,
       "cv": 205,
       "isStocked": false,
       "type": 2
