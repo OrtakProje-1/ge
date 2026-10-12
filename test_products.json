@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "GANO SUPRENO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GSP-new.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOSUPRENO.jpg",
       "salePrice": 945.0,
       "purchasePrice": 786.8,
       "pv": 36,
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "GANOCAFE CLASSIC",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/CC-turkey-new1.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOCAFECLASSIC.jpg",
       "salePrice": 915.0,
       "purchasePrice": 760.2,
       "pv": 36,
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "GANOCAFE 3 IN 1",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/C-turkey-new.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOCAFE3IN1.jpg",
       "salePrice": 980.0,
       "purchasePrice": 817.2,
       "pv": 39,
@@ -36,7 +36,7 @@
     {
       "id": 4,
       "name": "GANOCAFE MOCHA",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/cm-turkey.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOCAFEMOCHA.jpg",
       "salePrice": 950.0,
       "purchasePrice": 792.2,
       "pv": 38,
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "name": "GANO SCHOKOLADE 3 in 1",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/schokolade.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOSCHOKOLADE.jpg",
       "salePrice": 1040.0,
       "purchasePrice": 864.8,
       "pv": 41,
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "name": "OLEAF GANO ROOBIOS DRINK",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/rooibos.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOROOIBOS.jpg",
       "salePrice": 955.0,
       "purchasePrice": 793.4,
       "pv": 38,
@@ -102,7 +102,7 @@
     {
       "id": 10,
       "name": "GANO TRANSPARENT SOAP",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/prodImages/ge/webb/GTS.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/689f0e734792b.jpg",
       "salePrice": 670.0,
       "purchasePrice": 558.1,
       "pv": 23,
@@ -113,7 +113,7 @@
     {
       "id": 11,
       "name": "GANO SOAP",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/sTurkey.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/GANOSOAP.jpg",
       "salePrice": 690.0,
       "purchasePrice": 573.1,
       "pv": 23,
@@ -124,7 +124,7 @@
     {
       "id": 12,
       "name": "GANO FRESH",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/gf-1.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/GANOFRESH.jpg",
       "salePrice": 620.0,
       "purchasePrice": 516.3,
       "pv": 23,
@@ -135,7 +135,7 @@
     {
       "id": 13,
       "name": "GANOCORDY 60",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/ganocordya.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/GANOCORDY.jpg",
       "salePrice": 1880.0,
       "purchasePrice": 1559.8,
       "pv": 60,
@@ -146,7 +146,7 @@
     {
       "id": 14,
       "name": "GANODERMA 90",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/g-turkey-new.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/686191cd41fc3.jpg",
       "salePrice": 1600.0,
       "purchasePrice": 1326.9,
       "pv": 50,
@@ -157,7 +157,7 @@
     {
       "id": 15,
       "name": "EXCELLIUM 90",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/e9-turkey-new.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/EXCELLIUM.jpg",
       "salePrice": 1600.0,
       "purchasePrice": 1326.9,
       "pv": 50,
@@ -168,7 +168,7 @@
     {
       "id": 16,
       "name": "EXCELLIUM GOLD 60",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/EGold6.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/EXCELLIUMGOLD.jpg",
       "salePrice": 3110.0,
       "purchasePrice": 2591.2,
       "pv": 97,
@@ -179,7 +179,7 @@
     {
       "id": 17,
       "name": "REISHI GOLD 60",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/RGold6.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/REISHIGOLD.jpg",
       "salePrice": 3110.0,
       "purchasePrice": 2591.2,
       "pv": 97,
@@ -201,7 +201,7 @@
     {
       "id": 19,
       "name": "LUVOCO CAPSULES AMOROSO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/Amoroso.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LCA2025.png",
       "salePrice": 610.0,
       "purchasePrice": 504.7,
       "pv": 32,
@@ -212,7 +212,7 @@
     {
       "id": 20,
       "name": "LUVOCO CAPSULES CLASSICO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/Classico.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LCC2025.png",
       "salePrice": 610.0,
       "purchasePrice": 504.7,
       "pv": 32,
@@ -223,7 +223,7 @@
     {
       "id": 21,
       "name": "LUVOCO CAPSULES RAFFINATO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/Raffinato.jpg",
+      "image": "https://turkey.ganoexcel.com/ge/cms/images/LCR2025.png",
       "salePrice": 610.0,
       "purchasePrice": 504.7,
       "pv": 32,
@@ -234,7 +234,7 @@
     {
       "id": 22,
       "name": "GANOCAFE MOCHARETTO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GANOCAFEMOCHARETTO.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/6a29030a02184.png",
       "salePrice": 1045.0,
       "purchasePrice": 869.0,
       "pv": 41,
@@ -245,7 +245,7 @@
     {
       "id": 23,
       "name": "GANOCAFE LATTERETTO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GANOCAFELATTERETTO.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/6a28fa33eee28.png",
       "salePrice": 1000.0,
       "purchasePrice": 831.1,
       "pv": 39,
@@ -256,7 +256,7 @@
     {
       "id": 24,
       "name": "GANOCAFE CHOCORETTO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GANOCAFECHOCORETTO.jpg",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/6a29032d4aff0.png",
       "salePrice": 1075.0,
       "purchasePrice": 893.5,
       "pv": 43,
@@ -267,7 +267,7 @@
     {
       "id": 25,
       "name": "G’BEAUTE SHOWER SCRUB",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GBSS.png",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/SHOWERSCRUB.jpg",
       "salePrice": 750.0,
       "purchasePrice": 623.1,
       "pv": 26,
@@ -278,7 +278,7 @@
     {
       "id": 26,
       "name": "G’BEAUTE FACE MİST",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GBFM.png",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/FACEMIST.jpg",
       "salePrice": 1820.0,
       "purchasePrice": 1516.4,
       "pv": 63,
@@ -289,7 +289,7 @@
     {
       "id": 27,
       "name": "G’BEAUTE HAIR SHAMPOO",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GBHS.png",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/HAIRSHAMPOO.jpg",
       "salePrice": 905.0,
       "purchasePrice": 751.3,
       "pv": 31,
@@ -300,7 +300,7 @@
     {
       "id": 28,
       "name": "G’BEAUTE HAIR CONDITIONER",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GBHC.png",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/HAIRCONDITIONER.jpg",
       "salePrice": 960.0,
       "purchasePrice": 800.3,
       "pv": 33,
@@ -311,7 +311,7 @@
     {
       "id": 29,
       "name": "G’BEAUTE FACIAL TONER",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GBFT.JPG",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/1782224841_facialtoner.png",
       "salePrice": 2510.0,
       "purchasePrice": 2090.9,
       "pv": 112,
@@ -322,7 +322,7 @@
     {
       "id": 30,
       "name": "G’BEAUTE FACIAL CLEANSER",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GBFC.JPG",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/1782225573_facialCLEANSER.png",
       "salePrice": 2440.0,
       "purchasePrice": 2027.6,
       "pv": 109,
@@ -333,7 +333,7 @@
     {
       "id": 31,
       "name": "G’BEAUTE HAND & BODY LOTION",
-      "image": "https://turkey.ganoexcel.com/ge/cms/images/GBHBL.JPG",
+      "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/1782225975_handbodylotion.png",
       "salePrice": 1180.0,
       "purchasePrice": 982.1,
       "pv": 53,
