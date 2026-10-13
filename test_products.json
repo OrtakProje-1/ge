@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "GANO SUPRENO",
+      "description": "Supreno, güzel aromalı kremalı kahveden hoşlanan kişiler için özel olarak harmanlanmıştır. Ginseng ve Ganoderma Lucidum özü kombinasyonu, kahvenin aromasını muhafaza ederken farklı bir lezzet oluşturmuştur. Supreno, her kullanım türü için mükemmel bir içecektir.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOSUPRENO.jpg",
       "salePrice": 945.0,
       "purchasePrice": 786.8,
@@ -14,6 +15,7 @@
     {
       "id": 2,
       "name": "GANOCAFE CLASSIC",
+      "description": "Ganocafe Classic, Ganoderma Lucidum özü ile kahveden harmanlanan hazır bir siyah kahvedir. Ganocafe Classic, aroma ve tat olarak klasik özellikteki bir kahve ürünüdür.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOCAFECLASSIC.jpg",
       "salePrice": 915.0,
       "purchasePrice": 760.2,
@@ -25,6 +27,7 @@
     {
       "id": 3,
       "name": "GANOCAFE 3 IN 1",
+      "description": "Gano Cafe 3 in 1, dünyada kahve ve Ganoderma Lucidum kombinasyonu ile tüketiciye sunulan ilk içecektir. Gano Cafe 3 in 1, Ganoderma Lucidum özünden yapılan, besin değeri olan, bünyesinde kaliteli kahveyi, sütsüz kremayı ve şekeri barındıran zengin bir üründür.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOCAFE3IN1.jpg",
       "salePrice": 980.0,
       "purchasePrice": 817.2,
@@ -36,6 +39,7 @@
     {
       "id": 4,
       "name": "GANOCAFE MOCHA",
+      "description": "Ganocafe Mocha, kahve tozu, kakao tozu ve Ganoderma Lucidum özünün bir kombinasyonudur. Size otantik yumuşak ve kremalı kahve lezzeti sunmak üzere harmanlanmıştır. Menşei olarak yerel nitelik taşısa da, lezzeti uluslararası ölçeğe ulaşmıştır.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOCAFEMOCHA.jpg",
       "salePrice": 950.0,
       "purchasePrice": 792.2,
@@ -47,6 +51,7 @@
     {
       "id": 5,
       "name": "GANOCAFE HAZELNUT COFFEE",
+      "description": "",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/hznC.jpg",
       "salePrice": 133,
       "purchasePrice": 111.1,
@@ -58,6 +63,7 @@
     {
       "id": 6,
       "name": "GANO SCHOKOLADE 3 in 1",
+      "description": "Ganoderma Lucidum bitkisini, Gano Excel olarak kontrollü koşullarda ve GMP standartlarında kendi Ganoderma Lucidum özünden, kakaodan, sütsüz kremadan ve yağsız sütten formüle edilmiş, her yaştaki insan için içimi hoş bir içecektir.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOSCHOKOLADE.jpg",
       "salePrice": 1040.0,
       "purchasePrice": 864.8,
@@ -69,6 +75,7 @@
     {
       "id": 7,
       "name": "GANO C'REAL SPIRULINA",
+      "description": "",
       "image": "https://i.pinimg.com/originals/1c/7e/ce/1c7ecece95c8dd99a91b76a11403b3b1.jpg",
       "salePrice": 50,
       "purchasePrice": 42,
@@ -80,6 +87,7 @@
     {
       "id": 8,
       "name": "OLEAF GANO ROOBIOS DRINK",
+      "description": "Ganotea SOD (Super Oksit Dismutaz), formülü ile Güney Afrika kökenli Rooibos Çayından (Asphalathus Linealist) ve Ganoderma Lucidum özünden elde edilen bir içecektir. Ganoderma Lucidum Rooibos Çayı, aynı zamanda SOD Çayı olarak da bilinir.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/GANOROOIBOS.jpg",
       "salePrice": 955.0,
       "purchasePrice": 793.4,
@@ -91,6 +99,7 @@
     {
       "id": 9,
       "name": "OLEAF GANO REEBUSTEE",
+      "description": "",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/reebusteelow.jpg",
       "salePrice": 663.0,
       "purchasePrice": 553.3,
@@ -102,6 +111,7 @@
     {
       "id": 10,
       "name": "GANO TRANSPARENT SOAP",
+      "description": "Gano Şeffaf Sabun, Ganoderma Lucidum özü, aloe vera ve papaya bitkisi ihtiva eder. Cildinizi nemlendirir, tazeliğini korumasına yardımcı olur.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/689f0e734792b.jpg",
       "salePrice": 670.0,
       "purchasePrice": 558.1,
@@ -113,6 +123,7 @@
     {
       "id": 11,
       "name": "GANO SOAP",
+      "description": "Ganoderma Lucidum ve keçi sütü ile zenginleştirilmiştir. Cildiniz farkı hissedecek. Bu yumuşak ve değerli sabun sayesinde, yüzünüzde ve vücudunuzda harika bir temizlik ve pürüzsüz bir yumuşaklık hissedeceksiniz.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/GANOSOAP.jpg",
       "salePrice": 690.0,
       "purchasePrice": 573.1,
@@ -124,6 +135,7 @@
     {
       "id": 12,
       "name": "GANO FRESH",
+      "description": "Taze nane ve Ganoderma Lucidum özünden oluşan bir diş macunudur. Gano Fresh, diş ve dişetlerini temiz ve ferah tutmak için özel olarak formüle edilmiştir. Ferahlatıcı aroması ile ağzınızın her gün temiz olmasını ve nane kokulu hissetmenizi sağlar.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/GANOFRESH.jpg",
       "salePrice": 620.0,
       "purchasePrice": 516.3,
@@ -135,6 +147,7 @@
     {
       "id": 13,
       "name": "GANOCORDY 60",
+      "description": "Ganocordy, Ganoderma Lucidum ve Kordiseps mantarının kombinasyonu ile elde edilmiştir. Ganoderma Lucidum’un bitkisel tarihçesi, Shen Nong’un Bitkisel Klasiği olan en eski Çin Eczacı El Kitabı’nda anlatılmıştır. Geleneksel Çin tıbbında zindelik ve uzun yaşamı destekleyici olarak kullanılmıştır.\n\nKordiseps mantarı, çoğunlukla Dong Chong Xia Cao veya Çin Tırtıl Mantarı, Yaz Aynası olarak bilinmektedir. Ayrıca Çin’de ve Tibet’te Aweto, yine Tibet’te Yarchagumba olarak bilinmektedir. İngilizce’de de “Caterpillar Fungus” veya “Bitkisel Tırtıl”olarak bilinmektedir. Kordiseps mantarının aktif bileşenleri arasında kordiseptik asit, kordisepin, nükleozid, polisakkarit, protein, sterol ve benzerleri mevcuttur.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/GANOCORDY.jpg",
       "salePrice": 1880.0,
       "purchasePrice": 1559.8,
@@ -146,6 +159,7 @@
     {
       "id": 14,
       "name": "GANODERMA 90",
+      "description": "Ganoderma Lucidum, yüzyıllardır özellikle uzakdoğu ülkelerinde yararlı bir bitki olarak bilinmektedir. Biz Gano Excel olarak Ganoderma'yı GMP standartlarında üreterek, sizlerin bir besin tamamlayıcısı olarak kullanımına sunmaktayız.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/686191cd41fc3.jpg",
       "salePrice": 1600.0,
       "purchasePrice": 1326.9,
@@ -157,6 +171,7 @@
     {
       "id": 15,
       "name": "EXCELLIUM 90",
+      "description": "Ganoderma Lucidum bitkisini, Gano Excel olarak kontrollü koşullarda ve GMP standartlarında kendi çiftliklerimizde yetiştirip, her 90 günde bir hasat etmekteyiz.\n\nFakat EXCELLIUM ürünümüzü 90 günlük hasat süresi dolmadan 20. gününde topladığımız sporların yoğun olduğu dönemde toplanan, Ganoderma'lardan üretmekteyiz. Çünkü, bu dönemde toplanan Ganoderma'ların sporlarında yoğun miktarda organik germanyum bulunmaktadır. Bu özel ürünle tanışınca çok seveceksiniz.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/EXCELLIUM.jpg",
       "salePrice": 1600.0,
       "purchasePrice": 1326.9,
@@ -168,6 +183,7 @@
     {
       "id": 16,
       "name": "EXCELLIUM GOLD 60",
+      "description": "Excellium Gold, Ganoderma Lucidum’un miselyumu kullanılarak üretilir.\n\nMiselyum, olgunlaşmanın erken safhalarında hasat edilen mantarın dallanan iplik gibi baziler kısmıdır. Ganoderma Lucidum'un miselyumu, sporokarbı ile aynı etken maddeleri içerir ancak farklı yoğunluklardadır. Örneğin, triterpen daha çok olgunlaşmış sporokarbda bulunurken, enzimler daha çok miselyumda bulunur.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/EXCELLIUMGOLD.jpg",
       "salePrice": 3110.0,
       "purchasePrice": 2591.2,
@@ -179,6 +195,7 @@
     {
       "id": 17,
       "name": "REISHI GOLD 60",
+      "description": "Reishi Gold, Ganoderma Lucidum'un sporokarbı kullanılarak üretilir, %100 Ganoderma Lucidum özütünün alınmasından elde edilir.\n\nGanoderma Lucidum'un aktif bileşenleri arasında, bunlarla sınırlı olmamak üzere polisakaritler, triterpenler/triterpenoidler, organik germanyum, adenozin, nükleozitler, steroidler, steroller, yağ asitleri ve çok çeşitli proteinler, enzimler, vitaminler ve esas mineraller bulunur.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/supplements-products/REISHIGOLD.jpg",
       "salePrice": 3110.0,
       "purchasePrice": 2591.2,
@@ -190,6 +207,7 @@
     {
       "id": 18,
       "name": "G'BEAUTE REISHI MISTY",
+      "description": "",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/RM.jpg",
       "salePrice": 400,
       "purchasePrice": 330,
@@ -201,6 +219,7 @@
     {
       "id": 19,
       "name": "LUVOCO CAPSULES AMOROSO",
+      "description": "",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/LCA2025.png",
       "salePrice": 610.0,
       "purchasePrice": 504.7,
@@ -212,6 +231,7 @@
     {
       "id": 20,
       "name": "LUVOCO CAPSULES CLASSICO",
+      "description": "",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/LCC2025.png",
       "salePrice": 610.0,
       "purchasePrice": 504.7,
@@ -223,6 +243,7 @@
     {
       "id": 21,
       "name": "LUVOCO CAPSULES RAFFINATO",
+      "description": "",
       "image": "https://turkey.ganoexcel.com/ge/cms/images/LCR2025.png",
       "salePrice": 610.0,
       "purchasePrice": 504.7,
@@ -234,6 +255,7 @@
     {
       "id": 22,
       "name": "GANOCAFE MOCHARETTO",
+      "description": "Ganocafe Mocharetto, bir fincan mocha aroması ile kahvenin tadını çıkarmak isteyen ancak genellikle şekerden hoşlanmayanlar için üretilmiştir. Bu mükemmel kakao ve kahve ikilisi, size kremamsı, köpüklü ve hafif çikolatamsı, zengin tadı olan bir mocha ve Ganoderma Lucidumla harmanlanmış bir ziyafet sunar.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/6a29030a02184.png",
       "salePrice": 1045.0,
       "purchasePrice": 869.0,
@@ -245,6 +267,7 @@
     {
       "id": 23,
       "name": "GANOCAFE LATTERETTO",
+      "description": "Ganoderma Lucidum, yüzyıllardır özellikle uzakdoğu ülkelerinde yararlı bir bitki olarak bilinmektedir. Biz Gano Excel olarak Ganoderma'yı GMP standartlarında üreterek, sizlerin bir besin tamamlayıcısı olarak kullanımına sunmaktayız.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/6a28fa33eee28.png",
       "salePrice": 1000.0,
       "purchasePrice": 831.1,
@@ -256,6 +279,7 @@
     {
       "id": 24,
       "name": "GANOCAFE CHOCORETTO",
+      "description": "Ganocafe Chocoretto, vanilya, malt özü ve fazla şeker içermeyen zengin tada sahip bir kakao içeceğidir. Size zengin ve hoş bir çikolata aroması verir. Özellikle bu kakao içeceği doğal ve ağız dolusu çikolata tadı arayanlar için formüle edilmiştir. Ganocafe Chocoretto içeceğimiz Ganoderma Lucidum özü ile zenginleştirilmiştir ve sıcak, soğuk veya ılık olarak servis edilmesi mümkündür.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/beverages-products/6a29032d4aff0.png",
       "salePrice": 1075.0,
       "purchasePrice": 893.5,
@@ -267,6 +291,7 @@
     {
       "id": 25,
       "name": "G’BEAUTE SHOWER SCRUB",
+      "description": "G’Beaute Shower Scrub, Ganoderma Lucidum özü ve kayısı çekirdeği tozu ile zenginleştirilmiş hassas kremsi bir duş peelingidir. Cildin Koruyucu yağ tabakasına zarar vermeden cildi temizlemek için formüle edilmiştir.\n\nBirikmiş ölü hücreleri uzaklaştırır ve cildi arındırırken nazikçe temizler. Uzun süreli nemlendirme ile yumuşak, esnek, pürüzsüz ve tonu eşitlenmiş bir cilt sağlar. Banyo veya duşunuzu vücut peelingimizin hoşnutluğu ile zenginleştirin.\n\nG’Beaute Duş Peelingi tüm cilt tipleri için uygundur.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/SHOWERSCRUB.jpg",
       "salePrice": 750.0,
       "purchasePrice": 623.1,
@@ -278,6 +303,7 @@
     {
       "id": 26,
       "name": "G’BEAUTE FACE MİST",
+      "description": "G’Beaute Face Mist, cilde anında nemlendirme sağlayarak, daha genç ve sağlıklı bir cildi destekleyen hafif ve ferahlatıcı bir yüz spreyidir.\n\nCildi Temizlendikten sonra tonik görevi görür. Serum ve nemlendiricinizden önce uygulayın. Kırışıklıkların ve ince çizgilerin görünürlüğünü azaltmaya, cildi nemlendirmeye ve ferahlatmaya da yardımcı olur.\n\nGalactomyces Ferment Filtratı: Mayadan elde edilir ve yaşlılık belirtilerinin görünümünü azaltmaya yardımcı olduğu bilinir. Ek olarak, hassas veya tahriş olmuş cildi ferahlatmaya yardımcı olur.\n\nHamamelis Virginiana (Cadı Fındığı) Yaprak Suyu: Cildi ferahlatıcı ve tonik özellikler içerir.\n\nGanoderma Lucidum (mantar) Özü: Antioksidan özelliği ile birlikte, cildin destekleyici unsurlarını geliştirir.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/FACEMIST.jpg",
       "salePrice": 1820.0,
       "purchasePrice": 1516.4,
@@ -289,6 +315,7 @@
     {
       "id": 27,
       "name": "G’BEAUTE HAIR SHAMPOO",
+      "description": "Ganoderma Lucidum, yüzyıllardır özellikle uzakdoğu ülkelerinde yararlı bir bitki olarak bilinmektedir. Biz Gano Excel olarak Ganoderma'yı GMP standartlarında üreterek, sizlerin bir besin tamamlayıcısı olarak kullanımına sunmaktayız.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/HAIRSHAMPOO.jpg",
       "salePrice": 905.0,
       "purchasePrice": 751.3,
@@ -300,6 +327,7 @@
     {
       "id": 28,
       "name": "G’BEAUTE HAIR CONDITIONER",
+      "description": "G’Beaute Hair Conditioner, Güzel dalgalı bir saç modeli, iyi bir saç kremi ile başlar. G'Beaute Saç Kremi, saçlarınızı onarmak ve canlandırmak için Ganoderma Lucidum özü ile formüle edilmiştir. G’Beaute Saç Rutininden en iyi sonucu almak istiyorsanız eğer, G’Beaute Saç Şampuanı ile birlikte G’Beaute Saç Kremini de kullanmalısınız. Böylelikle saç rutininiz eksik kalmaz. Tek yapmanız gereken şampuandan sonra saçlarınızı iyice durulamak, ardından G’Beaute Saç Kremimizi kullanarak saç tellerinizi pürüzsüzleştirip düzleştirin hayalini kurduğunuz pürüzsüz, elastik ve hacimli Saçlara kavuşun.\n\nSaçlı derinin pH seviyelerini dengelemenin yanı sıra saç tellerinin nemini hapsetmeye ve saçlarınızın daha ipeksi olmasına yardımcı olur. Saçınızdaki tüm fazla suyu alın ve ardından saçlar hala nemliyken G’Beaute Saç Kremini doğrudan saç boy ve uçlarınıza uygulayın ve 5-10 dakika bekletin ve iyice durulayın.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/HAIRCONDITIONER.jpg",
       "salePrice": 960.0,
       "purchasePrice": 800.3,
@@ -311,6 +339,7 @@
     {
       "id": 29,
       "name": "G’BEAUTE FACIAL TONER",
+      "description": "G’Beaute Yüz Toniği, gözenekleri sıkılaştırmaya, nemi yenilemeye ve daha pürüzsüz, daha ışıltılı bir cilt görünümü sağlamaya yardımcı olmak üzere ferment filtratı, bitki özleri, peptitler ve Ganoderma lucidum özü ile zenginleştirilmiş, canlandırıcı ve cildi besleyen bir formüldür. Galactomyces Ferment Filtratı ve Cadı Fındığı Yaprağı Suyu ile zenginleştirilmiş bu tonik, cildi temizledikten sonra dengelemeye yardımcı olurken daha berrak ve rafine bir görünüm sağlar. Sodyum Hiyalüronat ve Pantenol gibi nemlendirici bileşenler, cildin nem seviyesini korumaya yardımcı olarak cildin esnek ve tazelenmiş hissetmesini sağlar.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/1782224841_facialtoner.png",
       "salePrice": 2510.0,
       "purchasePrice": 2090.9,
@@ -322,6 +351,7 @@
     {
       "id": 30,
       "name": "G’BEAUTE FACIAL CLEANSER",
+      "description": "G’Beaute Yüz Temizleyici, cildin doğal nem dengesini bozmadan kir, fazla yağ ve çevresel kirleri etkili bir şekilde temizlemek üzere hafif, amino asit bazlı bir yüzey aktif madde sistemi ile formüle edilmiş, cildi yumuşatan ve bakım sağlayan bir günlük temizleyicidir. Ganoderma lucidum özü ile zenginleştirilmiş bu ferahlatıcı temizleyici, her yıkamadan sonra cildin yumuşak, pürüzsüz ve nemli kalmasını sağlarken, günlük dış etkenlere karşı cildi korumaya yardımcı olur.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/1782225573_facialCLEANSER.png",
       "salePrice": 2440.0,
       "purchasePrice": 2027.6,
@@ -333,6 +363,7 @@
     {
       "id": 31,
       "name": "G’BEAUTE HAND & BODY LOTION",
+      "description": "G’Beaute El ve Vücut Losyonu, kuru cildi beslemek ve korumak için formüle edilmiş besleyici bir günlük nemlendiricidir. Shea yağı ve cildi yumuşatan nemlendiriciler ile zenginleştirilmiş formülü, uzun süreli nem sağlarken yumuşaklığı geri kazanmasına yardımcı olur. Ganoderma lucidum özü ile zenginleştirilmiş, bu hafif ama cildi rahatlatıcı losyon, cildin çevresel stres faktörlerine karşı korunmasına yardımcı olurken, pürüzsüz, esnek ve sağlıklı görünmesini sağlar; ayrıca günlük kullanıma uygundur.",
       "image": "https://www.ganoexcel.com.tr/assets/images/urunler/personal-care-products/1782225975_handbodylotion.png",
       "salePrice": 1180.0,
       "purchasePrice": 982.1,
